@@ -1,0 +1,33 @@
+---
+pagetitle: "Image credits"
+description: "Credits and licences for photographs used on this site."
+---
+
+::: {.eyebrow .muted .first .page-top}
+Credits
+:::
+
+# Image credits {.page-title}
+
+::: {.lede}
+The photographs on this site are placeholders shared by iNaturalist contributors under the Creative Commons Attribution 4.0 licence (CC BY 4.0). They will be replaced with the lab's own photographs.
+:::
+
+| Where used | Subject | Photographer | Licence | Source |
+|:-----------|:--------|:-------------|:--------|:-------|
+| Home, hero | Striped marlin (*Kajikia audax*), Mexico | tunicatedreamz | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/591110279) |
+| Angling vulnerability PhD | Sand flathead (*Platycephalus bassensis*), Risdon, Tasmania | Bee | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/607858193) |
+| Deep-sea skate PhD | Skate (*Bathyraja spinicauda*), Canada | Julien Savoie | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/643323709) |
+| Palau emperor PhD | Longface emperor (*Lethrinus olivaceus*), Palau | 陳德範 (Chen De-Fan) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/503639189) |
+| Striped marlin SDMs | Striped marlin (*Kajikia audax*), Mexico | Sula Vanderplank | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/310593379) |
+| Blue mackerel age and growth | Blue mackerel (*Scomber australasicus*), North Narooma, NSW | Hugh Chan | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/633510499) |
+| Tunas and billfishes | Striped marlin (*Kajikia audax*), Mexico | Sue Carnahan | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/347148712) |
+| Swordfish | Swordfish (*Xiphias gladius*), Spain | Demian Hiß | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/487200592) |
+| Redmap | Bluethroat wrasse (*Notolabrus tetricus*), Kingborough, Tasmania | ttsquid | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/254526926) |
+| Sand flathead | Sand flathead (*Platycephalus bassensis*), Mornington Peninsula, Victoria | Lawrence Hylton | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/570310878) |
+| Crayfish Point array | Southern rock lobster (*Jasus edwardsii*), Kingborough, Tasmania | ttsquid | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/284902095) |
+| Snapper PhD | Snapper (*Chrysophrys auratus*), Beaumaris, Port Phillip, Victoria | porkytama | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/465264756) |
+
+: {.credits-table}
+
+Fonts: ET Book (Edward Tufte, MIT licence) and Public Sans (US Web Design System, SIL Open Font License).

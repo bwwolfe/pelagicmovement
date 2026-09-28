@@ -1,0 +1,175 @@
+---
+pagetitle: "People"
+description: "Barrett Wolfe and the students of the Pelagic Movement Lab, with teaching, collaborators and how to join."
+---
+
+::: {.eyebrow .muted .first .page-top}
+People
+:::
+
+# Who we are {.page-title}
+
+::: {.lede}
+A small group based at IMAS in nipaluna/Hobart, working closely with colleagues across the institute and in fisheries agencies around Australia.
+:::
+
+:::: {.project .page-columns .page-full #barrett}
+::: {.column-margin}
+::: {.portrait}
+Portrait, 4:5. On the water or in the field, natural light, relaxed rather than posed.
+:::
+
+Email
+: [barrett.wolfe@utas.edu.au](mailto:barrett.wolfe@utas.edu.au)
+
+Profiles
+: [Google Scholar](https://scholar.google.com/citations?user=5sLIXE4AAAAJ) · [ORCID](https://orcid.org/0000-0002-9406-0578) · [UTAS](https://discover.utas.edu.au/Barrett.Wolfe)
+:::
+
+<h2 class="person-name">Barrett Wolfe</h2>
+
+::: {.eyebrow}
+Research Fellow, Fisheries Scientist · Lab lead
+:::
+
+I am a fisheries scientist interested in how fish make a living in a changing ocean, and in how that knowledge can be put to use by fishers and managers. I studied marine biology at the University of Hawaiʻi at Mānoa (BSc 2009), then tracked fishes and sharks with the California State University Long Beach Shark Lab (MSc 2013). After a good deal of sailing around the Hawaiian Islands and work in fisheries ecology, I came to Tasmania for a PhD.
+
+My PhD at IMAS (2021) looked at the physiological and behavioural mechanisms behind the range extension of snapper into southeast Tasmania. I am now a Research Fellow with the Sustainable Marine Research Collaboration at IMAS and national coordinator of Redmap Australia, and I supervise PhD, Masters and Honours students alongside coordinating undergraduate and postgraduate units.
+::::
+
+:::::: {.band .page-columns .page-full}
+
+:::: {.project .page-columns .page-full #students}
+::: {.column-margin}
+[Supervision record]{.record-label}
+
+[Two current PhD students and one completed, plus \[n\] Honours and Masters students]{.record-big}
+
+Projects span fish physiology, bycatch survival, reef fisheries assessment, species distribution modelling and fisheries biology.
+:::
+
+<h2 class="band-title">Students</h2>
+
+::: {.list-head .first}
+Current
+:::
+
+::: {.student}
+[Photo]{.thumb}
+
+::: {.student-text}
+[PhD · from 2026]{.eyebrow}
+
+[\[Student name\]]{.name}
+
+[What makes a fish vulnerable? Linking stress physiology, behaviour and angling in an iconic species]{.thesis}
+
+[Supervisors: \[primary supervisor\], Barrett Wolfe]{.sup}
+:::
+:::
+
+::: {.student}
+[Photo]{.thumb}
+
+::: {.student-text}
+[PhD · from 2022]{.eyebrow}
+
+[\[Student name\]]{.name}
+
+[Integrating movement and physiological data to assess bycatch mortality of deep-sea skate *Bathyraja irrasa* in demersal longline fisheries]{.thesis}
+
+[Supervisors: \[primary supervisor\], Barrett Wolfe]{.sup}
+:::
+:::
+
+::: {.student}
+[Photo]{.thumb}
+
+::: {.student-text}
+[\[Degree\] · \[year\]]{.eyebrow}
+
+[\[Student name\]]{.name}
+
+[Striped marlin species distribution models]{.thesis}
+
+[Supervisors: \[primary supervisor\], Barrett Wolfe]{.sup}
+:::
+:::
+
+::: {.student}
+[Photo]{.thumb}
+
+::: {.student-text}
+[\[Degree\] · \[year\]]{.eyebrow}
+
+[\[Student name\]]{.name}
+
+[Blue mackerel age and growth]{.thesis}
+
+[Supervisors: \[primary supervisor\], Barrett Wolfe]{.sup}
+:::
+:::
+
+::: {.list-head}
+Completed
+:::
+
+::: {.student}
+[Photo]{.thumb}
+
+::: {.student-text}
+[PhD · 2022–2026]{.eyebrow}
+
+[Christina Muller-Karanassos]{.name}
+
+[Assessing the status of a commercially important emperor (*Lethrinus olivaceus*) to inform coral reef fisheries management in Palau]{.thesis}
+
+[Supervisors: \[primary supervisor\], Barrett Wolfe · Now at \[organisation\]]{.sup}
+:::
+:::
+::::
+
+::::::
+
+:::: {.project .page-columns .page-full #teaching}
+::: {.column-margin}
+Unit coordinator
+: KSM312/601 Fishing Technology
+: KSM002 Science of Fishing 1
+
+Lectures
+: KSM723 Marine predator diversity and ecology, and others
+:::
+
+<h2>Teaching</h2>
+
+I coordinate Fishing Technology and Science of Fishing at UTAS, and lecture across the Bachelor and Master of Marine and Antarctic Science on the ecology and physiology of predatory fishes and sharks, aquatic parasitology, and the analysis of biologging data.
+::::
+
+:::: {.project .page-columns .page-full #collaborators}
+::: {.column-margin}
+::: {.logo-slot}
+\[Funder and partner logos, greyscale\]
+:::
+:::
+
+<h2>Collaborators and partners</h2>
+
+We work with colleagues across IMAS and the Centre for Marine Socioecology, with fisheries agencies including NSW DPIRD and Tasmania's Department of Natural Resources and Environment, and with fishing clubs and charter operators in Australia and New Zealand. Funding has come from the Fisheries Research and Development Corporation and \[other funders\].
+::::
+
+:::: {.project .page-columns .page-full #join}
+::: {.column-margin}
+Honours and Masters projects are also listed each year on the [IMAS study pages](https://www.utas.edu.au/imas/study/honours-and-masters-projects).
+
+PhD scholarships: \[link to the current UTAS round and closing dates\]
+:::
+
+<h2>Join the lab</h2>
+
+I am keen to hear from prospective Honours, Masters and PhD students interested in fish movement and physiology, or in making better use of fishery data. Projects range from time on the water to modelling at a desk, and many involve working alongside recreational fishers.
+
+To get in touch, send a short note on what interests you and why, with your CV and academic transcript.
+
+[Email Barrett](mailto:barrett.wolfe@utas.edu.au){.button}
+::::

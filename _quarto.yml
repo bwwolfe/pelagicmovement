@@ -1,0 +1,70 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+  resources:
+    - CNAME
+    - images/
+
+lang: en-AU
+
+website:
+  title: "Pelagic Movement Lab"
+  description: "Fish movement, physiology and fisheries in a changing ocean. Led by Dr Barrett Wolfe at the Institute for Marine and Antarctic Studies, University of Tasmania."
+  site-url: "https://pelagicmovement.com"
+  favicon: images/favicon.svg
+  open-graph: true
+  search: false
+  navbar:
+    logo: images/logo.svg
+    logo-alt: "Pelagic Movement Lab logo"
+    title: "Pelagic Movement Lab"
+    background: light
+    right:
+      - text: Research
+        href: research.qmd
+      - text: People
+        href: people.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Join the lab
+        href: people.qmd#join
+  page-footer:
+    background: "#17293A"
+    foreground: "#CBD5DD"
+    left: |
+      [Pelagic Movement Lab]{.footer-title}
+
+      Institute for Marine and Antarctic Studies, University of Tasmania\
+      20 Castray Esplanade, Battery Point TAS 7004
+
+      We acknowledge the palawa/pakana people, the Traditional Owners of lutruwita/Tasmania, and pay our respects to Elders past and present.
+    right:
+      - text: "barrett.wolfe@utas.edu.au"
+        href: mailto:barrett.wolfe@utas.edu.au
+      - text: "Google Scholar"
+        href: https://scholar.google.com/citations?user=5sLIXE4AAAAJ
+      - text: "ORCID"
+        href: https://orcid.org/0000-0002-9406-0578
+      - text: "UTAS profile"
+        href: https://discover.utas.edu.au/Barrett.Wolfe
+      - text: "Redmap Australia"
+        href: https://www.redmap.org.au
+      - text: "Image credits"
+        href: credits.qmd
+
+format:
+  html:
+    theme:
+      - default
+      - styles/theme.scss
+    toc: false
+    anchor-sections: false
+    reference-location: margin
+    citation-location: margin
+    smooth-scroll: true
+    grid:
+      body-width: 728px
+      margin-width: 350px
+      gutter-width: 2.75rem

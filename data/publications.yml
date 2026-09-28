@@ -1,0 +1,179 @@
+# Publications shown on publications.qmd, newest first.
+# To add a paper, copy an entry and edit it. Fields:
+#   year, authors_before (authors before you, ending with ", "), me (your name as printed),
+#   authors_after (authors after you, starting with ", "), title (HTML allowed, e.g. <em>),
+#   venue (journal or publisher), details (volume, pages or article number), doi, url (if no DOI), note (margin note).
+
+- year: 2026
+  authors_before: "Willis C, Thompson I, Goodrich H, Graba-Landry A, Semmens J, "
+  me: "Wolfe B"
+  authors_after: ", Tracey SR"
+  title: "Thermocline-associated habitat use and fight dynamics of swordfish during recreational angling events."
+  venue: "ICES Journal of Marine Science"
+  details: "83: fsag101."
+  doi: "10.1093/icesjms/fsag101"
+
+- year: 2026
+  authors_before: "Oliveira BF, Bertrand R, Pinsky ML, Casajus N, "
+  me: "Wolfe BW"
+  authors_after: " … Lenoir J, Comte L"
+  title: "Species range shifts often speed ahead of their modeled climatic niches."
+  venue: "Proceedings of the National Academy of Sciences"
+  details: ""
+  doi: "10.1073/pnas.2515903123"
+
+- year: 2026
+  authors_before: "Oliveira BF, Bertrand R, Comte L, Lenoir J … Moore NA, "
+  me: "Wolfe BW"
+  authors_after: ", Villalobos F … Pinsky ML, Rolland J"
+  title: "Genetic diversity impacts climate-induced species range shifts."
+  venue: "Ecology Letters"
+  details: "29: e70345."
+  doi: "10.1111/ele.70345"
+
+- year: 2026
+  authors_before: "Goodrich HR, Rossiter-Hill F, Audzijonyte A, "
+  me: "Wolfe BW"
+  authors_after: ", Breslin R, Tracey SR"
+  title: "Phenotypic divergence of sand flathead (<em>Platycephalus bassensis</em>) between heavily and lightly fished regions in Tasmania, Australia."
+  venue: "Conservation Physiology"
+  details: "14: coag001."
+  doi: "10.1093/conphys/coag001"
+
+- year: 2025
+  authors_before: ""
+  me: "Wolfe BW"
+  authors_after: ", Champion C, Gaston T, Brown J … Pecl GT"
+  title: "Continental-scale assessment of climate-driven marine species range extensions using a decade of citizen science data."
+  venue: "Diversity and Distributions"
+  details: "31: e70022."
+  doi: "10.1111/ddi.70022"
+  note: "Draws on a decade of Redmap sightings."
+
+- year: 2025
+  authors_before: "Ward T, Charitonidou K, "
+  me: "Wolfe B"
+  authors_after: " et al."
+  title: "Fishery assessment report for the Small Pelagic Fishery: fishing seasons 2021–22, 2022–23 and 2023–24."
+  venue: "Institute for Marine and Antarctic Studies, University of Tasmania"
+  details: "[Link to report]"
+
+- year: 2023
+  authors_before: "Ward TM, "
+  me: "Wolfe BW"
+  authors_after: ", Grammer GL, Ivey AR, King E, Schiller A, McDonald KS, Dambacher JM"
+  title: "Large sardine resource discovered off south-eastern Australia: potential risks, challenges and benefits of establishing a new fishery."
+  venue: "Marine Policy"
+  details: "155: 105739."
+  doi: "10.1016/j.marpol.2023.105739"
+
+- year: 2023
+  authors_before: "Tracey SR, "
+  me: "Wolfe BW"
+  authors_after: ", Hartmann K, Pepperell J, Williams SM"
+  title: "Movement behavior of swordfish provisions connectivity between the temperate and tropical southwest Pacific Ocean."
+  venue: "Scientific Reports"
+  details: "13: 11812."
+  doi: "10.1038/s41598-023-38744-z"
+  note: "Tracks link temperate and tropical waters of the southwest Pacific."
+
+- year: 2023
+  authors_before: "Tracey SR, Pepperell J, "
+  me: "Wolfe B"
+  authors_after: ""
+  title: "Post release survival of swordfish (<em>Xiphias gladius</em>) caught by a recreational fishery in temperate waters."
+  venue: "Fisheries Research"
+  details: "265: 106742."
+  doi: "10.1016/j.fishres.2023.106742"
+
+- year: 2023
+  authors_before: "Graba-Landry A, Champion C, Twiname S, "
+  me: "Wolfe B"
+  authors_after: ", Haddy JA, Mossop D, Pecl G, Tracey S"
+  title: "Citizen science aids the quantification of the distribution and prediction of present and future temporal variation in habitat suitability at species' range edges."
+  venue: "Frontiers of Biogeography"
+  details: "15: e58207."
+  doi: "10.21425/F5FBG58207"
+
+- year: 2022
+  authors_before: "Espejo C, Wilson R, Pye RJ, Ratcliffe JC, Ruiz-Aravena M, Willms E, "
+  me: "Wolfe BW"
+  authors_after: ", Hamede R, Hill AF, Jones ME, Woods GM, Lyons AB"
+  title: "Cathelicidin-3 associated with serum extracellular vesicles enables early diagnosis of a transmissible cancer."
+  venue: "Frontiers in Immunology"
+  details: "13: 858423."
+  doi: "10.3389/fimmu.2022.858423"
+
+- year: 2021
+  authors_before: "Burns ES, "
+  me: "Wolfe BW"
+  authors_after: ", Armstrong J, Tang D, Sakamoto K, Lowe CG"
+  title: "Using acoustic telemetry to quantify potential contaminant exposure of vermilion rockfish, hornyhead turbot and white croaker at wastewater outfalls in southern California."
+  venue: "Marine Environmental Research"
+  details: "170: 105452."
+  doi: "10.1016/j.marenvres.2021.105452"
+
+- year: 2021
+  authors_before: ""
+  me: "Wolfe BW"
+  authors_after: ""
+  title: "Physiological and behavioural mechanisms underpinning the climate-driven range extension of snapper <em>Chrysophrys auratus</em> in southeast Tasmania."
+  venue: "PhD thesis, University of Tasmania"
+  details: ""
+
+- year: 2020
+  authors_before: ""
+  me: "Wolfe BW"
+  authors_after: ", Fitzgibbon QP, Semmens JM, Tracey SR, Pecl GT"
+  title: "Physiological mechanisms linking cold acclimation and the poleward distribution limit of a range-extending marine fish."
+  venue: "Conservation Physiology"
+  details: "8: coaa045."
+  doi: "10.1093/conphys/coaa045"
+  note: "From Barrett's PhD on snapper at their southern range edge."
+
+- year: 2020
+  authors_before: "Twiname S, Audzijonyte A, Blanchard JL, Champion C … Tracey S, Villanueva C, "
+  me: "Wolfe B"
+  authors_after: ", Pecl GT"
+  title: "A cross-scale framework to support a mechanistic understanding and modelling of marine climate-driven species redistribution, from individuals to communities."
+  venue: "Ecography"
+  details: "43: 1764–1778."
+  doi: "10.1111/ecog.04996"
+
+- year: 2020
+  authors_before: "Burns ES, "
+  me: "Wolfe B"
+  authors_after: ", Lowe CG"
+  title: "Evidence of artificial habitat use by a recovering marine predator in southern California."
+  venue: "Journal of Fish Biology"
+  details: "97."
+  doi: "10.1111/jfb.14539"
+  note: "[Check DOI]"
+
+- year: 2017
+  authors_before: "Filous A, Friedlander A, "
+  me: "Wolfe B"
+  authors_after: ", Stamoulis K, Scherrer S, Wong A, Stone K, Sparks R"
+  title: "Movement patterns of reef predators in a small isolated marine protected area with implications for resource management."
+  venue: "Marine Biology"
+  details: "164: 2."
+  doi: "10.1007/s00227-016-3043-3"
+
+- year: 2015
+  authors_before: ""
+  me: "Wolfe BW"
+  authors_after: ", Lowe CG"
+  title: "Movement patterns, habitat use and site fidelity of the white croaker (<em>Genyonemus lineatus</em>) in the Palos Verdes Superfund Site, Los Angeles, California."
+  venue: "Marine Environmental Research"
+  details: "109: 69–80."
+  doi: "10.1016/j.marenvres.2015.06.002"
+  note: "From Barrett's MSc at the CSULB Shark Lab."
+
+- year: 2015
+  authors_before: "Teesdale GN, "
+  me: "Wolfe BW"
+  authors_after: ", Lowe CG"
+  title: "Patterns of home ranging, site fidelity, and seasonal spawning migration of barred sand bass caught within the Palos Verdes Shelf Superfund Site."
+  venue: "Marine Ecology Progress Series"
+  details: "539: 255–269."
+  doi: "10.3354/meps11482"

@@ -1,0 +1,280 @@
+---
+pagetitle: "Research and projects"
+description: "Student projects and lab projects on fish movement, physiology, citizen science and fishery data."
+---
+
+::: {.eyebrow .muted .first .page-top}
+Research
+:::
+
+# Research and projects {.page-title}
+
+::: {.column-margin}
+Looking for a project? See [Join the lab](people.qmd#join), or get in touch with an idea of your own.
+:::
+
+::: {.lede}
+Our projects range from national citizen science to studies of single species, and many are designed with the fishers and managers who will use the results. Student projects sit alongside the funded work, and often grow out of it.
+:::
+
+:::::: {.band .page-columns .page-full}
+
+## Student projects
+
+:::: {.project .page-columns .page-full #vulnerable}
+::: {.column-margin}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/607858193/large.jpg){fig-alt="Sand flathead (placeholder photo)"}
+
+[Placeholder photo: Bee, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/607858193){.credit}
+
+Student
+: \[Name\], PhD
+
+Supervisors
+: \[Primary supervisor\], Barrett Wolfe
+
+Thesis
+: What makes a fish vulnerable? Linking stress physiology, behaviour and angling in an iconic species
+:::
+
+::: {.eyebrow}
+PhD · from 2026
+:::
+
+<h3>What makes a fish vulnerable?</h3>
+
+Some fish are more likely to be caught than others. This PhD links stress physiology and behaviour to angling in \[species\], to understand what makes individual fish vulnerable and what that means for how the fishery is managed.
+::::
+
+:::: {.project .page-columns .page-full #skate}
+::: {.column-margin}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/643323709/large.jpg){fig-alt="Skate, genus Bathyraja (placeholder photo)"}
+
+[Placeholder photo: Julien Savoie, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/643323709){.credit}
+
+Student
+: \[Name\], PhD
+
+Supervisors
+: \[Primary supervisor\], Barrett Wolfe
+
+Thesis
+: Integrating movement and physiological data to assess bycatch mortality of deep-sea skate *Bathyraja irrasa* in demersal longline fisheries
+:::
+
+::: {.eyebrow}
+PhD · from 2022
+:::
+
+<h3>Bycatch mortality of deep-sea skate</h3>
+
+Skates are a common bycatch in demersal longline fisheries. This PhD combines movement and physiological data to assess how many deep-sea skate (*Bathyraja irrasa*) survive capture, and what that means for fishery management.
+::::
+
+:::: {.project .page-columns .page-full #emperor}
+::: {.column-margin}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/503639189/large.jpeg){fig-alt="Longface emperor, Palau (placeholder photo)"}
+
+[Placeholder photo: 陳德範 (Chen De-Fan), CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/503639189){.credit}
+
+Student
+: Christina Muller-Karanassos, PhD 2022–2026
+
+Supervisors
+: \[Primary supervisor\], Barrett Wolfe
+
+Outputs
+: \[Thesis and papers\]
+:::
+
+::: {.eyebrow}
+PhD · completed 2026
+:::
+
+<h3>Longface emperor fisheries in Palau</h3>
+
+Christina assessed the status of the longface emperor (*Lethrinus olivaceus*), a commercially important reef fish, to inform coral reef fisheries management in Palau.
+::::
+
+:::: {.project .page-columns .page-full #marlin}
+::: {.column-margin}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/310593379/large.jpg){fig-alt="Striped marlin (placeholder photo)"}
+
+[Placeholder photo: Sula Vanderplank, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/310593379){.credit}
+
+Student
+: \[Name\], \[degree\]
+
+Supervisors
+: \[Primary supervisor\], Barrett Wolfe
+
+Species
+: Striped marlin, *Kajikia audax*
+:::
+
+::: {.eyebrow}
+\[Degree\] · \[year\]
+:::
+
+<h3>Striped marlin species distribution models</h3>
+
+Striped marlin are a prized recreational catch off eastern Australia and New Zealand, and their availability varies from year to year with ocean conditions. This project builds species distribution models linking striped marlin records to the environment, to map suitable habitat through the seasons and across years. \[Add data sources and a headline result.\]
+::::
+
+:::: {.project .page-columns .page-full #mackerel}
+::: {.column-margin}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/633510499/large.jpg){fig-alt="Blue mackerel (placeholder photo)"}
+
+[Placeholder photo: Hugh Chan, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/633510499){.credit}
+
+Student
+: \[Name\], \[degree\]
+
+Supervisors
+: \[Primary supervisor\], Barrett Wolfe
+
+Related
+: Small Pelagic Fishery assessment reports (Ward et al. 2025)
+:::
+
+::: {.eyebrow}
+\[Degree\] · \[year\]
+:::
+
+<h3>Blue mackerel age and growth</h3>
+
+Blue mackerel (*Scomber australasicus*) are one of the main species taken in Australia's Small Pelagic Fishery. Reliable estimates of age and growth show how productive the stock is and how it may respond to fishing. \[Add region, samples and method.\]
+::::
+
+::::::
+
+## Lab projects
+
+:::: {.project .page-columns .page-full #tunas-billfishes}
+::: {.column-margin}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/347148712/large.jpeg){fig-alt="Striped marlin (placeholder photo)"}
+
+[Placeholder photo: Sue Carnahan, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/347148712){.credit}
+
+Funding
+: Fisheries Research and Development Corporation, 2023–2025
+
+Species
+: Billfishes and tropical tunas, including striped marlin and yellowfin tuna
+
+Output
+: Final report \[link when published\]
+:::
+
+::: {.eyebrow}
+Principal investigator · FRDC 2022-173
+:::
+
+<h3>Recreational catch data for tropical tunas and billfishes</h3>
+
+Recreational catches of tunas and billfishes are recorded in club records, charter logbooks, tournaments, tagging programs and surveys, but rarely in a form that stock assessments can use directly. We standardised catch rates from each source, compared what each can detect, and set out a framework for monitoring from here.
+::::
+
+:::: {.project .page-columns .page-full #swordfish}
+::: {.column-margin}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/487200592/large.jpg){fig-alt="Swordfish (placeholder photo)"}
+
+[Placeholder photo: Demian Hiß, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/487200592){.credit}
+
+With
+: Sean Tracey and colleagues, IMAS
+
+Outputs
+: Tracey et al. 2023a, 2023b; Willis et al. 2026
+:::
+
+::: {.eyebrow}
+Collaboration
+:::
+
+<h3>Swordfish movement and recreational fishing</h3>
+
+Electronic tags on swordfish caught by recreational anglers in temperate Australian waters have shown how these fish move between the temperate and tropical southwest Pacific, how well they survive release, and how they use the thermocline during a fight.
+::::
+
+:::: {.project .page-columns .page-full #redmap}
+::: {.column-margin}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/254526926/large.jpeg){fig-alt="Bluethroat wrasse, Tasmania (placeholder photo)"}
+
+[Placeholder photo: ttsquid, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/254526926){.credit}
+
+Website
+: [redmap.org.au](https://www.redmap.org.au)
+
+Output
+: Wolfe et al. 2025, *Diversity and Distributions*
+:::
+
+::: {.eyebrow}
+Ongoing
+:::
+
+<h3>Redmap Australia</h3>
+
+Redmap invites fishers, divers and beachgoers to log marine species they see outside their usual range, and each record is checked by a scientist. Barrett coordinates Redmap nationally, and the lab uses these records alongside other citizen science data to track climate-driven range extensions.
+::::
+
+:::: {.project .page-columns .page-full #flathead}
+::: {.column-margin}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/570310878/large.jpg){fig-alt="Sand flathead (placeholder photo)"}
+
+[Placeholder photo: Lawrence Hylton, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/570310878){.credit}
+
+Funding
+: FRDC 2020-005, led by Sean Tracey
+
+Output
+: Goodrich et al. 2026, *Conservation Physiology*
+:::
+
+::: {.eyebrow}
+Collaboration
+:::
+
+<h3>Sand flathead in Tasmania</h3>
+
+Sand flathead are among Tasmania's most popular recreational fish. We contributed to a cost-effective approach to monitoring and assessing the fishery, and to work showing how fish differ between heavily and lightly fished regions.
+::::
+
+:::: {.project .page-columns .page-full #crayfish-point}
+::: {.column-margin}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/284902095/large.jpeg){fig-alt="Southern rock lobster, Tasmania (placeholder photo)"}
+
+[Placeholder photo: ttsquid, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/284902095){.credit}
+
+Species of interest
+: Bluethroat wrasse, sand flathead, southern rock lobster and juvenile snapper
+:::
+
+::: {.eyebrow}
+In planning
+:::
+
+<h3>Crayfish Point acoustic array</h3>
+
+A small array of acoustic receivers off Crayfish Point, Taroona, would give students hands-on tracking work close to Hobart, and support fine-scale studies of reef fishes and southern rock lobster, including inside the adjacent reserve.
+::::
+
+:::: {.project .page-columns .page-full #snapper}
+::: {.column-margin}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/465264756/large.jpg){fig-alt="Snapper (placeholder photo)"}
+
+[Placeholder photo: porkytama, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/465264756){.credit}
+
+Outputs
+: Wolfe et al. 2020, *Conservation Physiology*; PhD thesis, University of Tasmania, 2021
+:::
+
+::: {.eyebrow}
+PhD · 2021
+:::
+
+<h3>Snapper at their southern range edge</h3>
+
+Snapper (*Chrysophrys auratus*) have become established in southeast Tasmania, south of their historical range. Barrett's PhD combined field work with laboratory trials to test how winter temperatures and behaviour shape where they can persist.
+::::

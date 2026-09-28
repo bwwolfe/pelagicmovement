@@ -1,0 +1,425 @@
+/*-- scss:defaults --*/
+
+// Palette: industrial marine. Navy for links and actions, rust for labels and
+// highlights, steel for bands, dark navy for the footer.
+$pml-ink: #17212B;
+$pml-navy: #2A5C7A;
+$pml-rust: #A4471F;
+$pml-steel: #E8EDF0;
+$pml-muted: #5B6770;
+$pml-secondary: #3C4750;
+$pml-rule: #DDE2E6;
+$pml-footer: #17293A;
+
+$body-bg: #FFFFFF;
+$body-color: $pml-ink;
+$primary: $pml-navy;
+$link-color: $pml-navy;
+$link-decoration: underline;
+
+$font-family-serif: "ET Book", "EB Garamond", Georgia, serif;
+$font-family-sans-serif: "Public Sans", "Helvetica Neue", Arial, sans-serif;
+$font-family-base: $font-family-serif;
+$headings-font-family: $font-family-serif;
+$headings-font-weight: 400;
+$headings-color: $pml-ink;
+
+// ET Book runs small, so the base size is set high (the "Larger" option on the canvas).
+$font-size-base: 1.4rem;
+$line-height-base: 1.55;
+$h1-font-size: 3.1rem;
+$h2-font-size: 2.1rem;
+$h3-font-size: 1.55rem;
+$h4-font-size: 1.25rem;
+
+$navbar-bg: #FFFFFF;
+$navbar-fg: $pml-ink;
+$navbar-hl: $pml-navy;
+$footer-bg: $pml-footer;
+$footer-fg: #CBD5DD;
+
+/*-- scss:rules --*/
+
+// Fonts are self-hosted so the site does not depend on a font CDN.
+@font-face { font-family: "ET Book"; src: url("styles/fonts/et-book-roman-old-style-figures.woff") format("woff"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "ET Book"; src: url("styles/fonts/et-book-display-italic-old-style-figures.woff") format("woff"); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: "ET Book"; src: url("styles/fonts/et-book-bold-line-figures.woff") format("woff"); font-weight: 700; font-style: normal; font-display: swap; }
+@font-face { font-family: "Public Sans"; src: url("styles/fonts/public-sans-latin-400-normal.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "Public Sans"; src: url("styles/fonts/public-sans-latin-400-italic.woff2") format("woff2"); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: "Public Sans"; src: url("styles/fonts/public-sans-latin-500-normal.woff2") format("woff2"); font-weight: 500; font-style: normal; font-display: swap; }
+@font-face { font-family: "Public Sans"; src: url("styles/fonts/public-sans-latin-600-normal.woff2") format("woff2"); font-weight: 600; font-style: normal; font-display: swap; }
+
+%sans { font-family: $font-family-sans-serif; }
+%label {
+  @extend %sans;
+  font-size: 0.75rem;
+  line-height: 1.5;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+body { -webkit-font-smoothing: antialiased; }
+
+a { text-underline-offset: 0.18em; text-decoration-thickness: 1px; }
+a:hover { color: $pml-rust; }
+
+h1, h2, h3, h4 { letter-spacing: -0.005em; line-height: 1.15; }
+h2 { font-style: italic; margin-top: 4.5rem; margin-bottom: 1.5rem; }
+h3 { margin-top: 0.4rem; margin-bottom: 0.6rem; }
+main.content > h2:first-child { margin-top: 0; }
+
+// Navbar ------------------------------------------------------------------
+.navbar {
+  @extend %sans;
+  padding-top: 1.4rem;
+  padding-bottom: 1rem;
+  box-shadow: none;
+  border-bottom: 0;
+}
+.navbar-brand img { max-height: 28px; margin-right: 0.6rem; }
+.navbar-title {
+  font-family: $font-family-serif;
+  font-size: 1.55rem;
+  letter-spacing: 0.005em;
+}
+.navbar .nav-link {
+  font-size: 0.875rem;
+  letter-spacing: 0.02em;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+.navbar .nav-link.active {
+  color: $pml-navy !important;
+  text-decoration: underline;
+  text-decoration-color: $pml-rust;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.55em;
+}
+
+// Page furniture ----------------------------------------------------------
+.eyebrow, .eyebrow p {
+  @extend %label;
+  color: $pml-rust;
+  margin: 0;
+}
+.eyebrow.muted, .eyebrow.muted p { color: $pml-muted; }
+div.eyebrow { margin-top: 4rem; margin-bottom: 0.35rem; }
+div.eyebrow.first { margin-top: 0; }
+
+.page-intro { padding-top: 3.5rem; }
+.page-intro h1 { margin: 1.2rem 0 1.8rem; font-size: 3.4rem; line-height: 1.08; }
+.lede { font-size: 1.2em; line-height: 1.5; }
+.lede p { margin-bottom: 0; }
+
+// Margin notes and sidenotes read as quiet sans-serif annotations.
+.column-margin, .column-margin p, div.aside, aside {
+  @extend %sans;
+  font-size: 0.875rem !important;
+  line-height: 1.6;
+  color: $pml-secondary !important;
+}
+.column-margin sup, .footnote-ref sup { color: $pml-rust; font-weight: 600; @extend %sans; }
+.column-margin em { font-style: italic; }
+.column-margin dl { margin: 0.8rem 0 0; }
+.column-margin dt {
+  @extend %label;
+  font-size: 0.6875rem;
+  font-weight: 400;
+  color: $pml-muted;
+  margin-top: 0.7rem;
+}
+.column-margin dd { margin: 0.1rem 0 0; }
+.column-margin img, .margin-img { width: 100%; aspect-ratio: 3 / 2; object-fit: cover; display: block; }
+
+.credit, a.credit {
+  @extend %sans;
+  display: block;
+  font-size: 0.75rem;
+  line-height: 1.45;
+  color: $pml-muted !important;
+  text-decoration: none;
+  margin-top: 0.4rem;
+}
+a.credit:hover { text-decoration: underline; }
+
+// Hero --------------------------------------------------------------------
+.hero-title h1, h1.hero-title {
+  font-size: 3.6rem;
+  line-height: 1.06;
+  margin: 1.1rem 0 1.8rem;
+  max-width: 15ch;
+}
+.hero-figure { margin-top: 3.5rem; }
+.hero-figure img {
+  width: 100%;
+  aspect-ratio: 1024 / 520;
+  object-fit: cover;
+  display: block;
+}
+
+// Bands -------------------------------------------------------------------
+.band {
+  background: $pml-steel;
+  padding-top: 5rem;
+  padding-bottom: 5.5rem;
+  margin-top: 5.5rem;
+}
+.band > h2:first-child, .band > div:first-child > h2 { margin-top: 0; }
+.band + .band { margin-top: 0; }
+
+.section-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 2.25rem;
+}
+.section-head h2 { margin: 0; }
+.section-head p { margin: 0; }
+.section-head a { @extend %sans; font-size: 0.875rem; }
+
+// Project cards -----------------------------------------------------------
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  column-gap: 2rem;
+  row-gap: 3rem;
+}
+.project-card { display: flex; flex-direction: column; gap: 0.55rem; }
+.project-card p { margin: 0; }
+.project-card img {
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 0.2rem;
+}
+.project-card .quarto-figure { margin: 0; }
+.project-card h3 { font-size: 1.3rem; line-height: 1.25; margin: 0; }
+.project-card h3 a { color: $pml-ink; text-decoration: none; }
+.project-card h3 a:hover { color: $pml-navy; text-decoration: underline; }
+.project-card .summary { font-size: 1.05rem; line-height: 1.5; color: #2E3943; }
+.project-card .who { @extend %sans; font-size: 0.8125rem; color: $pml-muted; }
+.project-card .credit { margin-top: 0; }
+
+.summary-card {
+  @extend %sans;
+  border-top: 2px solid $pml-rust;
+  padding-top: 1.1rem;
+  font-size: 0.875rem;
+  color: $pml-secondary;
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+.summary-card p { margin: 0; }
+.summary-card .big {
+  font-family: $font-family-serif;
+  font-size: 1.45rem;
+  line-height: 1.3;
+  color: $pml-ink;
+}
+
+// Research themes ---------------------------------------------------------
+.theme h3 { margin-top: 0.2rem; }
+
+// Projects: each project is its own grid, with the margin column spanning
+// all of the project's rows so a tall margin (photo + facts) never overlaps
+// the next project.
+.page-title h1, h1.page-title { font-size: 3.4rem; line-height: 1.08; margin: 1.1rem 0 1.8rem; }
+.project { margin-top: 4.5rem; }
+.band > h2 + .project, h2 + .project { margin-top: 1.5rem; }
+.project > .column-margin.no-row-height {
+  grid-row: 1 / span 12;
+  height: auto;
+  align-self: start;
+}
+.project > div.eyebrow { margin: 0 0 0.35rem; }
+.project h3 { margin: 0 0 0.6rem; }
+.project p { margin-bottom: 0.9rem; }
+.column-margin .quarto-figure, .column-margin figure { margin: 0; }
+.column-margin .credit { margin-bottom: 0.2rem; }
+
+// People ------------------------------------------------------------------
+h2.person-name { font-style: normal; margin: 0 0 0.35rem; font-size: 2.1rem; }
+h2.band-title { margin: 0 0 1.5rem; }
+.project > h2:not(.person-name):not(.band-title) { margin: 0 0 1.2rem; }
+.record-label {
+  @extend %label;
+  display: block;
+  color: $pml-muted;
+  border-top: 2px solid $pml-rust;
+  padding-top: 0.9rem;
+  margin-top: 4.2rem;
+}
+.record-big {
+  display: block;
+  font-family: $font-family-serif;
+  font-size: 1.4rem;
+  line-height: 1.3;
+  color: $pml-ink;
+  margin: 0.6rem 0 0.8rem;
+}
+.student-text > p { margin: 0; }
+.student-text .eyebrow, .student-text .name, .student-text .thesis, .student-text .sup { display: block; }
+.student > p:first-child { margin: 0; }
+.student .thumb { display: flex; }
+.logo-slot {
+  aspect-ratio: 2 / 1;
+  background: #ECEFF1;
+  border: 1px solid #D5DBE0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.8125rem;
+  color: #4F5B64;
+  margin-top: 4.2rem;
+}
+.project .column-margin .portrait { margin-bottom: 0.4rem; }
+
+// People ------------------------------------------------------------------
+.portrait {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  background: #ECEFF1;
+  border: 1px solid #D5DBE0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 1.5rem;
+  @extend %sans;
+  font-size: 0.8125rem;
+  color: #4F5B64;
+}
+.student {
+  display: grid;
+  grid-template-columns: 96px minmax(0, 1fr);
+  column-gap: 1.4rem;
+  margin: 0 0 1.9rem;
+}
+.student .thumb {
+  width: 96px;
+  height: 96px;
+  background: #D9E1E6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  @extend %label;
+  font-size: 0.625rem;
+  color: #4F5B64;
+}
+.student p { margin: 0; }
+.student .name { font-size: 1.3rem; line-height: 1.25; margin: 0.1rem 0 0.2rem; }
+.student .thesis { font-size: 1.05rem; line-height: 1.45; }
+.student .sup { @extend %sans; font-size: 0.8125rem; color: $pml-muted; margin-top: 0.25rem; }
+.list-head {
+  @extend %label;
+  color: $pml-muted;
+  border-bottom: 1px solid #C9D3DA;
+  padding-bottom: 0.4rem;
+  margin: 2.5rem 0 1.6rem;
+}
+.list-head.first { margin-top: 0.5rem; }
+
+.button, a.button {
+  @extend %sans;
+  display: inline-block;
+  font-size: 0.9375rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #FFFFFF !important;
+  background: $pml-navy;
+  text-decoration: none;
+  padding: 1rem 1.5rem;
+  border-radius: 3px;
+}
+a.button:hover { background: $pml-rust; }
+
+// Publications ------------------------------------------------------------
+.pub-list { margin-top: 3rem; }
+.pub {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 300px;
+  column-gap: 2.75rem;
+  margin-bottom: 1.15rem;
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
+.pub.new-year { border-top: 1px solid $pml-rule; padding-top: 1.6rem; margin-top: 2rem; }
+.pub.new-year:first-child { border-top: 0; padding-top: 0; margin-top: 0; }
+.pub .me { font-weight: 700; }
+.pub .venue { font-style: italic; }
+.pub a.doi { @extend %sans; font-size: 0.8125rem; }
+.pub-note { @extend %sans; font-size: 0.875rem; line-height: 1.55; color: $pml-secondary; }
+.pub-year-label {
+  font-family: $font-family-serif;
+  font-style: italic;
+  font-size: 1.75rem;
+  line-height: 1;
+  color: $pml-rust;
+  margin-bottom: 0.5rem;
+}
+
+// Footer ------------------------------------------------------------------
+.nav-footer {
+  @extend %sans;
+  font-size: 0.875rem;
+  line-height: 1.6;
+  align-items: flex-start;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.nav-footer-left { text-align: left; max-width: 38rem; }
+.nav-footer-left p { margin-bottom: 0.8rem; }
+.nav-footer .footer-title { font-family: $font-family-serif; font-size: 1.4rem; color: #FFFFFF; }
+.nav-footer a { color: #FFFFFF; }
+.nav-footer-right .footer-items { flex-direction: column; align-items: flex-end; gap: 0.15rem; }
+.nav-footer-right .nav-link { padding: 0.1rem 0; }
+
+// Smaller screens ---------------------------------------------------------
+@media (max-width: 991.98px) {
+  .project > .column-margin.no-row-height { grid-row: auto; order: 99; margin-top: 0.5rem; }
+  .card-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .pub { grid-template-columns: minmax(0, 1fr); }
+  .pub-note { grid-row: 1; }
+  .hero-title h1, h1.hero-title { font-size: 2.8rem; }
+}
+@media (max-width: 575.98px) {
+  .card-grid { grid-template-columns: minmax(0, 1fr); }
+  .page-intro h1 { font-size: 2.6rem; }
+  .nav-footer-right .footer-items { align-items: flex-start; }
+}
+
+// Footer link tidy-up (Quarto wraps footer link text in paragraphs).
+.nav-footer .nav-link p { margin: 0; }
+.nav-footer-center { display: none; }
+
+// Quarto marks the navbar as dark; keep the menu icon visible on white.
+.navbar .navbar-toggler { border-color: $pml-rule; }
+.navbar .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%2317212B' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+// Tables (image credits)
+main table { @extend %sans; font-size: 0.875rem; line-height: 1.5; }
+main table th { font-weight: 600; color: $pml-muted; text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.6875rem; }
+main table em { font-style: italic; }
+
+// Card and page-top details
+.page-top { margin-top: 3.5rem; }
+.project-card .eyebrow { display: block; margin-top: 0.3rem; }
+.project-card a.card-title {
+  display: block;
+  font-family: $font-family-serif;
+  font-size: 1.35rem;
+  line-height: 1.25;
+  color: $pml-ink;
+  text-decoration: none;
+}
+.project-card a.card-title:hover { color: $pml-navy; text-decoration: underline; }
+.project-card .summary, .project-card .who { display: block; }
+.summary-card .eyebrow, .summary-card .big { display: block; }
+.page-end-note { margin-top: 3rem; }

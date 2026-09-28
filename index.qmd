@@ -1,0 +1,175 @@
+---
+pagetitle: "Pelagic Movement Lab"
+description: "Fish movement, physiology and fisheries in a changing ocean. Led by Dr Barrett Wolfe at IMAS, University of Tasmania."
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/591110279/large.jpg
+---
+
+::: {.eyebrow .muted .first .page-top}
+Institute for Marine and Antarctic Studies · University of Tasmania
+:::
+
+# Following fish through a changing ocean {.hero-title}
+
+::: {.column-margin}
+Led by Dr Barrett Wolfe, a Research Fellow and fisheries scientist at IMAS and national coordinator of [Redmap Australia](https://www.redmap.org.au). Based in nipaluna/Hobart, lutruwita/Tasmania.
+:::
+
+::: {.lede}
+We study how coastal and pelagic fishes move and what limits where they can live as Australia's oceans warm. Much of the work is done with recreational fishers and citizen scientists, and is aimed at questions that fishery managers need answered.
+:::
+
+::: {.hero-figure .column-page-right}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/591110279/original.jpg){fig-alt="Striped marlin (placeholder photo)"}
+
+[Striped marlin, Mexico. Placeholder photo: tunicatedreamz, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/591110279){.credit}
+:::
+
+## What we work on
+
+::: {.column-margin}
+Tracey et al. 2023, *Scientific Reports*
+
+Wolfe and Lowe 2015, *Marine Environmental Research*
+:::
+
+::: {.eyebrow .first}
+Movement
+:::
+
+### Where fish go, and when
+
+Tags show where fish spend their time, which is the starting point for most spatial management. Our tracking has ranged from white croaker on a contaminated shelf off Los Angeles to swordfish moving between the temperate and tropical southwest Pacific.
+
+::: {.column-margin}
+Wolfe et al. 2020, *Conservation Physiology*
+:::
+
+::: {.eyebrow}
+Physiology
+:::
+
+### What sets the limits
+
+While the direction of range shifts broadly follows ocean warming, how far and how fast a species moves depends on its biology. We pair laboratory trials with field work to test which mechanisms matter, from snapper at their southern range edge to skates and sportfish after capture and release.
+
+::: {.column-margin}
+Wolfe et al. 2025, *Diversity and Distributions*
+
+[redmap.org.au](https://www.redmap.org.au)
+:::
+
+::: {.eyebrow}
+Citizen science
+:::
+
+### Species on the move
+
+Redmap asks fishers, divers and beachgoers to log marine species they see outside their usual range. Combined with other citizen science and modelling, a decade of these records identified dozens of climate-driven range extensions around Australia.
+
+::: {.column-margin}
+Recreational catches of tropical tunas and billfishes, FRDC 2022-173
+:::
+
+::: {.eyebrow}
+Fishery data
+:::
+
+### Getting more from the records we have
+
+Many fisheries, recreational ones especially, lack the routine data that stock assessments rely on. We work on drawing reliable indicators from the records that do exist, such as club and charter logbooks, tournaments and tagging programs, and on which new monitoring is worth its cost.
+
+::: {.band .page-columns .page-full}
+
+::: {.section-head .column-page-right}
+## Student projects
+
+[All research and projects](research.qmd)
+:::
+
+::: {.card-grid .column-page-right}
+
+::: {.project-card}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/607858193/large.jpg){fig-alt="Sand flathead (placeholder photo)"}
+
+[PhD · from 2026]{.eyebrow}
+
+[What makes a fish vulnerable?](research.qmd#vulnerable){.card-title}
+
+[Stress physiology, behaviour and angling in \[species\].]{.summary}
+
+[\[Student name\]]{.who}
+:::
+
+::: {.project-card}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/643323709/large.jpg){fig-alt="Skate, genus Bathyraja (placeholder photo)"}
+
+[PhD · from 2022]{.eyebrow}
+
+[Bycatch mortality of deep-sea skate](research.qmd#skate){.card-title}
+
+[Movement and physiology of *Bathyraja irrasa* caught on demersal longlines.]{.summary}
+
+[\[Student name\]]{.who}
+:::
+
+::: {.project-card}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/503639189/large.jpeg){fig-alt="Longface emperor, Palau (placeholder photo)"}
+
+[PhD · completed 2026]{.eyebrow}
+
+[Longface emperor fisheries in Palau](research.qmd#emperor){.card-title}
+
+[Status of *Lethrinus olivaceus* to inform coral reef fisheries management.]{.summary}
+
+[Christina Muller-Karanassos]{.who}
+:::
+
+::: {.project-card}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/310593379/large.jpg){fig-alt="Striped marlin (placeholder photo)"}
+
+[\[Degree\] · \[year\]]{.eyebrow}
+
+[Striped marlin species distribution models](research.qmd#marlin){.card-title}
+
+[Linking striped marlin records to ocean conditions to map habitat through time.]{.summary}
+
+[\[Student name\]]{.who}
+:::
+
+::: {.project-card}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/633510499/large.jpg){fig-alt="Blue mackerel (placeholder photo)"}
+
+[\[Degree\] · \[year\]]{.eyebrow}
+
+[Blue mackerel age and growth](research.qmd#mackerel){.card-title}
+
+[Age and growth of one of the main species in Australia's Small Pelagic Fishery.]{.summary}
+
+[\[Student name\]]{.who}
+:::
+
+::: {.summary-card}
+[Supervision]{.eyebrow .muted}
+
+[Three PhD students, one completed, plus \[n\] Honours and Masters projects]{.big}
+
+Unit coordinator for Fishing Technology and Science of Fishing at UTAS.
+
+[Students and teaching](people.qmd)
+:::
+
+:::
+
+:::
+
+## Join the lab
+
+::: {.column-margin}
+Honours and Masters projects are also listed each year on the [IMAS study pages](https://www.utas.edu.au/imas/study/honours-and-masters-projects). For a PhD, get in touch well before the scholarship round closes.
+:::
+
+I am keen to hear from prospective Honours, Masters and PhD students interested in fish movement and physiology, or in making better use of fishery data. Projects range from time on the water to modelling at a desk, and many involve working alongside recreational fishers.
+
+[Email Barrett](mailto:barrett.wolfe@utas.edu.au){.button}
+
+[Placeholder photos are from iNaturalist under CC BY 4.0; see [image credits](credits.qmd).]{.credit .page-end-note}

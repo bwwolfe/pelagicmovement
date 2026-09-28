@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="28" viewBox="0 0 48 28" fill="none">
+  <title>Pelagic Movement Lab</title>
+  <path d="M3 22 C 10 5, 18 27, 26 14 S 39 3, 45 8" stroke="#2A5C7A" stroke-width="1.8" stroke-linecap="round"/>
+  <circle cx="3" cy="22" r="2.6" fill="#A4471F"/>
+  <circle cx="14.1" cy="16.5" r="2.6" fill="#A4471F"/>
+  <circle cx="26" cy="14" r="2.6" fill="#A4471F"/>
+  <circle cx="45" cy="8" r="2.6" fill="#A4471F"/>
+</svg>

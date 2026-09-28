@@ -1,0 +1,28 @@
+---
+pagetitle: "Publications"
+description: "Selected papers and reports from the Pelagic Movement Lab."
+listing:
+  id: pubs
+  contents: data/publications.yml
+  template: _templates/publications.ejs
+  sort: false
+---
+
+::: {.eyebrow .muted .first .page-top}
+Publications
+:::
+
+# Papers and reports {.page-title}
+
+::: {.column-margin}
+[Google Scholar](https://scholar.google.com/citations?user=5sLIXE4AAAAJ) · [ORCID](https://orcid.org/0000-0002-9406-0578)
+
+Lab members in bold.
+:::
+
+::: {.lede}
+Selected papers and reports, newest first. The complete list is kept up to date on Google Scholar and ORCID.
+:::
+
+::: {#pubs .column-page-right}
+:::

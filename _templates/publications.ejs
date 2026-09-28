@@ -1,0 +1,17 @@
+<%
+// Publications list: one row per paper, text in the body column and the year
+// label and any note in the margin column. Items come from data/publications.yml
+// in file order (newest first).
+let lastYear = null;
+%>
+<div class="pub-list">
+<% for (const item of items) {
+  const newYear = String(item.year) !== String(lastYear);
+  lastYear = item.year;
+%>
+<div class="pub<%= newYear ? ' new-year' : '' %>">
+<div class="pub-text"><%= item.authors_before || '' %><span class="me"><%= item.me %></span><%= item.authors_after || '' %> (<%= item.year %>) <%= item.title %> <span class="venue"><%= item.venue %></span><%= item.details ? ' ' + item.details : '.' %><% if (item.doi) { %> <a class="doi" href="https://doi.org/<%= item.doi %>">doi:<%= item.doi %></a><% } else if (item.url) { %> <a class="doi" href="<%= item.url %>">link</a><% } %></div>
+<div class="pub-note"><% if (newYear) { %><div class="pub-year-label"><%= item.year %></div><% } %><% if (item.note) { %><div><%= item.note %></div><% } %></div>
+</div>
+<% } %>
+</div>

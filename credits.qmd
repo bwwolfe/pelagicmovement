@@ -30,4 +30,4 @@ The photographs on this site are placeholders shared by iNaturalist contributors
 
 : {.credits-table}
 
-Fonts: ET Book (Edward Tufte, MIT licence) and Public Sans (US Web Design System, SIL Open Font License).
+Fonts: EB Garamond (Georg Duffner and Octavio Pardo) and Public Sans (US Web Design System), both under the SIL Open Font License.

@@ -17,15 +17,16 @@ $primary: $pml-navy;
 $link-color: $pml-navy;
 $link-decoration: underline;
 
-$font-family-serif: "ET Book", "EB Garamond", Georgia, serif;
+$font-family-serif: "EB Garamond", Georgia, serif;
 $font-family-sans-serif: "Public Sans", "Helvetica Neue", Arial, sans-serif;
 $font-family-base: $font-family-serif;
 $headings-font-family: $font-family-serif;
-$headings-font-weight: 400;
+$headings-font-weight: 500;
+$font-weight-base: 500;
 $headings-color: $pml-ink;
 
-// ET Book runs small, so the base size is set high (the "Larger" option on the canvas).
-$font-size-base: 1.4rem;
+// 21px body text, the "Standard" size chosen on the canvas.
+$font-size-base: 1.3125rem;
 $line-height-base: 1.55;
 $h1-font-size: 3.1rem;
 $h2-font-size: 2.1rem;
@@ -41,15 +42,19 @@ $footer-fg: #CBD5DD;
 /*-- scss:rules --*/
 
 // Fonts are self-hosted so the site does not depend on a font CDN.
-@font-face { font-family: "ET Book"; src: url("styles/fonts/et-book-roman-old-style-figures.woff") format("woff"); font-weight: 400; font-style: normal; font-display: swap; }
-@font-face { font-family: "ET Book"; src: url("styles/fonts/et-book-display-italic-old-style-figures.woff") format("woff"); font-weight: 400; font-style: italic; font-display: swap; }
-@font-face { font-family: "ET Book"; src: url("styles/fonts/et-book-bold-line-figures.woff") format("woff"); font-weight: 700; font-style: normal; font-display: swap; }
+// EB Garamond Medium (weight 500) is the text face; 700 is used for bold.
+@font-face { font-family: "EB Garamond"; src: url("styles/fonts/eb-garamond-latin-500-normal.woff2") format("woff2"); font-weight: 500; font-style: normal; unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; size-adjust: 101.3%; font-display: swap; }
+@font-face { font-family: "EB Garamond"; src: url("styles/fonts/eb-garamond-latin-ext-500-normal.woff2") format("woff2"); font-weight: 500; font-style: normal; unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF; size-adjust: 101.3%; font-display: swap; }
+@font-face { font-family: "EB Garamond"; src: url("styles/fonts/eb-garamond-latin-500-italic.woff2") format("woff2"); font-weight: 500; font-style: italic; unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; size-adjust: 101.3%; font-display: swap; }
+@font-face { font-family: "EB Garamond"; src: url("styles/fonts/eb-garamond-latin-ext-500-italic.woff2") format("woff2"); font-weight: 500; font-style: italic; unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF; size-adjust: 101.3%; font-display: swap; }
+@font-face { font-family: "EB Garamond"; src: url("styles/fonts/eb-garamond-latin-700-normal.woff2") format("woff2"); font-weight: 700; font-style: normal; unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; size-adjust: 101.3%; font-display: swap; }
+@font-face { font-family: "EB Garamond"; src: url("styles/fonts/eb-garamond-latin-ext-700-normal.woff2") format("woff2"); font-weight: 700; font-style: normal; unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF; size-adjust: 101.3%; font-display: swap; }
 @font-face { font-family: "Public Sans"; src: url("styles/fonts/public-sans-latin-400-normal.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
 @font-face { font-family: "Public Sans"; src: url("styles/fonts/public-sans-latin-400-italic.woff2") format("woff2"); font-weight: 400; font-style: italic; font-display: swap; }
 @font-face { font-family: "Public Sans"; src: url("styles/fonts/public-sans-latin-500-normal.woff2") format("woff2"); font-weight: 500; font-style: normal; font-display: swap; }
 @font-face { font-family: "Public Sans"; src: url("styles/fonts/public-sans-latin-600-normal.woff2") format("woff2"); font-weight: 600; font-style: normal; font-display: swap; }
 
-%sans { font-family: $font-family-sans-serif; }
+%sans { font-family: $font-family-sans-serif; font-weight: 400; }
 %label {
   @extend %sans;
   font-size: 0.75rem;

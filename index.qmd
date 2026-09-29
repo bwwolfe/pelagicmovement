@@ -1,7 +1,7 @@
 ---
 pagetitle: "Pelagic Movement Lab"
 description: "Fish movement, physiology and fisheries in a changing ocean. Led by Dr Barrett Wolfe at IMAS, University of Tasmania."
-image: https://inaturalist-open-data.s3.amazonaws.com/photos/591110279/large.jpg
+image: images/lab/marlin-release.jpg
 ---
 
 ::: {.eyebrow .muted .first .page-top}
@@ -12,7 +12,7 @@ Institute for Marine and Antarctic Studies · University of Tasmania
 
 :::: {.project .intro .page-columns .page-full}
 ::: {.column-margin}
-Led by Dr Barrett Wolfe, a Research Fellow and fisheries scientist at IMAS and national coordinator of [Redmap Australia](https://www.redmap.org.au). Based in nipaluna/Hobart, lutruwita/Tasmania.
+Principal investigator: Dr Barrett Wolfe, Research Fellow and fisheries scientist at IMAS and national coordinator of [Redmap Australia](https://www.redmap.org.au). Based in nipaluna/Hobart, lutruwita/Tasmania.
 :::
 
 ::: {.lede}
@@ -21,9 +21,9 @@ We study how coastal and pelagic fishes move and what limits where they can live
 ::::
 
 ::: {.hero-figure .column-page-right}
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/591110279/original.jpg){fig-alt="Striped marlin (placeholder photo)"}
+![](images/lab/marlin-release.jpg){fig-alt="Barrett Wolfe, right, and a deckhand bring a marlin alongside the boat for release" .hero-photo}
 
-[Striped marlin, Mexico. Placeholder photo: tunicatedreamz, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/591110279){.credit}
+[Bringing a marlin alongside for release. Barrett is on the right.]{.credit}
 :::
 
 ## What we work on
@@ -33,6 +33,10 @@ We study how coastal and pelagic fishes move and what limits where they can live
 Tracey et al. 2023, *Scientific Reports*
 
 Wolfe and Lowe 2015, *Marine Environmental Research*
+
+![](images/lab/tag-surgery.jpg){fig-alt="Barrett Wolfe implanting an acoustic tag in a fish on a padded cradle aboard a boat" .margin-photo}
+
+[Implanting an acoustic tag before release.]{.credit}
 :::
 
 ::: {.eyebrow}
@@ -42,11 +46,27 @@ Movement
 <h3>Where fish go, and when</h3>
 
 Tags show where fish spend their time, which is the starting point for most spatial management. Our tracking has ranged from white croaker on a contaminated shelf off Los Angeles to swordfish moving between the temperate and tropical southwest Pacific.
+
+```{=html}
+<video class="loop-video body-video" autoplay muted loop playsinline preload="metadata" poster="images/lab/swordfish-dives.jpg" aria-label="Animated swordfish dive tracks over the seafloor off southeast Australia">
+  <source src="images/lab/swordfish-dives.mp4" type="video/mp4">
+</video>
+```
+
+[Swordfish dive tracks from pop-up satellite archival tags, drawn over the seafloor off southeast Australia (Tracey et al. 2023).]{.credit}
 ::::
 
 :::: {.project .theme .page-columns .page-full}
 ::: {.column-margin}
 Wolfe et al. 2020, *Conservation Physiology*
+
+```{=html}
+<video class="loop-video margin-video" autoplay muted loop playsinline preload="metadata" poster="images/lab/snapper-swim-tunnel.jpg" aria-label="A snapper swimming in a swim tunnel respirometer">
+  <source src="images/lab/snapper-swim-tunnel.mp4" type="video/mp4">
+</video>
+```
+
+[A tagged snapper in a swim tunnel, used to calibrate tag accelerations against metabolic rate.]{.credit}
 :::
 
 ::: {.eyebrow}
@@ -63,6 +83,14 @@ While the direction of range shifts broadly follows ocean warming, how far and h
 Wolfe et al. 2025, *Diversity and Distributions*
 
 [redmap.org.au](https://www.redmap.org.au)
+
+```{=html}
+<video class="loop-video margin-video" autoplay muted loop playsinline preload="metadata" poster="images/lab/sst-southeast-australia.jpg" aria-label="Animated monthly sea surface temperature off southeast Australia">
+  <source src="images/lab/sst-southeast-australia.mp4" type="video/mp4">
+</video>
+```
+
+[Monthly sea surface temperature off southeast Australia, one of the fastest-warming ocean regions.]{.credit}
 :::
 
 ::: {.eyebrow}
@@ -77,6 +105,10 @@ Redmap asks fishers, divers and beachgoers to log marine species they see outsid
 :::: {.project .theme .page-columns .page-full}
 ::: {.column-margin}
 Recreational catches of tropical tunas and billfishes, FRDC 2022-173
+
+![](images/lab/game-fishing.jpg){fig-alt="Barrett Wolfe, seen from behind in a Tuna Champions shirt, fishing from a game boat" .margin-photo}
+
+[Out with the game fishing community.]{.credit}
 :::
 
 ::: {.eyebrow}
@@ -105,9 +137,9 @@ Many fisheries, recreational ones especially, lack the routine data that stock a
 
 [What makes a fish vulnerable?](research.qmd#vulnerable){.card-title}
 
-[Stress physiology, behaviour and angling in \[species\].]{.summary}
+[Stress physiology, behaviour and angling in an iconic species.]{.summary}
 
-[\[Student name\]]{.who}
+[Co-supervised]{.who}
 :::
 
 ::: {.project-card}
@@ -119,7 +151,7 @@ Many fisheries, recreational ones especially, lack the routine data that stock a
 
 [Movement and physiology of *Bathyraja irrasa* caught on demersal longlines.]{.summary}
 
-[\[Student name\]]{.who}
+[Co-supervised]{.who}
 :::
 
 ::: {.project-card}
@@ -137,31 +169,31 @@ Many fisheries, recreational ones especially, lack the routine data that stock a
 ::: {.project-card}
 ![](https://inaturalist-open-data.s3.amazonaws.com/photos/310593379/large.jpg){fig-alt="Striped marlin (placeholder photo)"}
 
-[\[Degree\] · \[year\]]{.eyebrow}
+[Student project · 2025]{.eyebrow}
 
 [Striped marlin species distribution models](research.qmd#marlin){.card-title}
 
 [Linking striped marlin records to ocean conditions to map habitat through time.]{.summary}
 
-[\[Student name\]]{.who}
+[Jennifer Owen]{.who}
 :::
 
 ::: {.project-card}
 ![](https://inaturalist-open-data.s3.amazonaws.com/photos/633510499/large.jpg){fig-alt="Blue mackerel (placeholder photo)"}
 
-[\[Degree\] · \[year\]]{.eyebrow}
+[Student projects · 2023, 2024]{.eyebrow}
 
 [Blue mackerel age and growth](research.qmd#mackerel){.card-title}
 
 [Age and growth of one of the main species in Australia's Small Pelagic Fishery.]{.summary}
 
-[\[Student name\]]{.who}
+[Two students]{.who}
 :::
 
 ::: {.summary-card}
 [Supervision]{.eyebrow .muted}
 
-[Three PhD students, one completed, plus \[n\] Honours and Masters projects]{.big}
+[Three PhD students, one completed, and seven Honours and Masters students]{.big}
 
 Unit coordinator for Fishing Technology and Science of Fishing at UTAS.
 
@@ -184,4 +216,4 @@ I am keen to hear from prospective Honours, Masters and PhD students interested 
 [Email Barrett](mailto:barrett.wolfe@utas.edu.au){.button}
 ::::
 
-[Placeholder photos are from iNaturalist under CC BY 4.0; see [image credits](credits.qmd).]{.credit .page-end-note}
+[Student project photos are placeholders from iNaturalist under CC BY 4.0; see [image credits](credits.qmd).]{.credit .page-end-note}

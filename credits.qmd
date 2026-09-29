@@ -1,6 +1,6 @@
 ---
 pagetitle: "Image credits"
-description: "Credits and licences for photographs used on this site."
+description: "Credits and licences for photographs and animations used on this site."
 ---
 
 ::: {.eyebrow .muted .first .page-top}
@@ -10,23 +10,38 @@ Credits
 # Image credits {.page-title}
 
 ::: {.lede}
-The photographs on this site are placeholders shared by iNaturalist contributors under the Creative Commons Attribution 4.0 licence (CC BY 4.0). They will be replaced with the lab's own photographs.
+Photographs and animations of the lab's own work are from Pelagic Movement Lab research and talks. The remaining photographs are placeholders shared by iNaturalist contributors under the Creative Commons Attribution 4.0 licence (CC BY 4.0), and will be replaced with the lab's own.
 :::
+
+## Lab images
+
+| Where used | Subject | Source |
+|:-----------|:--------|:-------|
+| Home banner, Research | Marlin release | Pelagic Movement Lab |
+| Home, movement | Swordfish dive tracks from pop-up satellite archival tags | Tracey et al. 2023, *Scientific Reports* |
+| Home and People | Acoustic tagging on the water | Pelagic Movement Lab |
+| Home, fishery data | Game fishing | Pelagic Movement Lab |
+| People | Portrait and field work near Hobart | Pelagic Movement Lab |
+| Research, Crayfish Point | Tagging fish in southeast Tasmania | Pelagic Movement Lab |
+| Research, swordfish | Monthly positions of tagged swordfish | Tracey et al. 2023, *Scientific Reports* |
+| Research, swordfish | Tagging a swordfish at the boat | \[Photo credit\] |
+| Home, physiology | Tagged snapper in a swim tunnel | Wolfe, PhD research, IMAS |
+| Research, snapper | Snapper on the tagging cradle | Wolfe, PhD research, IMAS |
+| Home, citizen science | Monthly sea surface temperature, southeast Australia | \[Data source\] |
+| Research, Redmap | Redmap New South Wales report card | Redmap Australia |
+
+: {.credits-table}
+
+## Placeholder photos
 
 | Where used | Subject | Photographer | Licence | Source |
 |:-----------|:--------|:-------------|:--------|:-------|
-| Home, hero | Striped marlin (*Kajikia audax*), Mexico | tunicatedreamz | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/591110279) |
 | Angling vulnerability PhD | Sand flathead (*Platycephalus bassensis*), Risdon, Tasmania | Bee | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/607858193) |
 | Deep-sea skate PhD | Skate (*Bathyraja spinicauda*), Canada | Julien Savoie | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/643323709) |
 | Palau emperor PhD | Longface emperor (*Lethrinus olivaceus*), Palau | 陳德範 (Chen De-Fan) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/503639189) |
 | Striped marlin SDMs | Striped marlin (*Kajikia audax*), Mexico | Sula Vanderplank | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/310593379) |
 | Blue mackerel age and growth | Blue mackerel (*Scomber australasicus*), North Narooma, NSW | Hugh Chan | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/633510499) |
-| Tunas and billfishes | Striped marlin (*Kajikia audax*), Mexico | Sue Carnahan | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/347148712) |
-| Swordfish | Swordfish (*Xiphias gladius*), Spain | Demian Hiß | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/487200592) |
-| Redmap | Bluethroat wrasse (*Notolabrus tetricus*), Kingborough, Tasmania | ttsquid | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/254526926) |
 | Sand flathead | Sand flathead (*Platycephalus bassensis*), Mornington Peninsula, Victoria | Lawrence Hylton | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/570310878) |
-| Crayfish Point array | Southern rock lobster (*Jasus edwardsii*), Kingborough, Tasmania | ttsquid | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/284902095) |
-| Snapper PhD | Snapper (*Chrysophrys auratus*), Beaumaris, Port Phillip, Victoria | porkytama | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [iNaturalist](https://www.inaturalist.org/photos/465264756) |
 
 : {.credits-table}
 

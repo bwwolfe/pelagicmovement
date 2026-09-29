@@ -60,6 +60,7 @@ format:
       - default
       - styles/theme.scss
     toc: false
+    include-after-body: _includes/reduced-motion.html
     anchor-sections: false
     reference-location: margin
     citation-location: margin

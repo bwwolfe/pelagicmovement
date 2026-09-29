@@ -29,11 +29,11 @@ Our projects range from national citizen science to studies of single species, a
 
 [Placeholder photo: Bee, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/607858193){.credit}
 
-Student
-: \[Name\], PhD
+Degree
+: PhD, from 2026
 
-Supervisors
-: \[Primary supervisor\], Barrett Wolfe
+Supervision
+: Co-supervised by Barrett Wolfe
 
 Thesis
 : What makes a fish vulnerable? Linking stress physiology, behaviour and angling in an iconic species
@@ -45,7 +45,7 @@ PhD · from 2026
 
 <h3>What makes a fish vulnerable?</h3>
 
-Some fish are more likely to be caught than others. This PhD links stress physiology and behaviour to angling in \[species\], to understand what makes individual fish vulnerable and what that means for how the fishery is managed.
+Some fish are more likely to be caught than others. This PhD links stress physiology and behaviour to angling in an iconic recreational species, to understand what makes individual fish vulnerable and what that means for how the fishery is managed.
 ::::
 
 :::: {.project .page-columns .page-full #skate}
@@ -54,11 +54,11 @@ Some fish are more likely to be caught than others. This PhD links stress physio
 
 [Placeholder photo: Julien Savoie, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/643323709){.credit}
 
-Student
-: \[Name\], PhD
+Degree
+: PhD, from 2022
 
-Supervisors
-: \[Primary supervisor\], Barrett Wolfe
+Supervision
+: Co-supervised by Barrett Wolfe
 
 Thesis
 : Integrating movement and physiological data to assess bycatch mortality of deep-sea skate *Bathyraja irrasa* in demersal longline fisheries
@@ -82,11 +82,8 @@ Skates are a common bycatch in demersal longline fisheries. This PhD combines mo
 Student
 : Christina Muller-Karanassos, PhD 2022–2026
 
-Supervisors
-: \[Primary supervisor\], Barrett Wolfe
-
-Outputs
-: \[Thesis and papers\]
+Supervision
+: Co-supervised by Barrett Wolfe
 :::
 
 ::: {.eyebrow}
@@ -105,22 +102,19 @@ Christina assessed the status of the longface emperor (*Lethrinus olivaceus*), a
 [Placeholder photo: Sula Vanderplank, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/310593379){.credit}
 
 Student
-: \[Name\], \[degree\]
-
-Supervisors
-: \[Primary supervisor\], Barrett Wolfe
+: Jennifer Owen, 2025
 
 Species
 : Striped marlin, *Kajikia audax*
 :::
 
 ::: {.eyebrow}
-\[Degree\] · \[year\]
+Student project · 2025
 :::
 
 <h3>Striped marlin species distribution models</h3>
 
-Striped marlin are a prized recreational catch off eastern Australia and New Zealand, and their availability varies from year to year with ocean conditions. This project builds species distribution models linking striped marlin records to the environment, to map suitable habitat through the seasons and across years. \[Add data sources and a headline result.\]
+Striped marlin are a prized recreational catch off eastern Australia and New Zealand, and their availability varies from year to year with ocean conditions. This project builds species distribution models linking striped marlin records to the environment, to map suitable habitat through the seasons and across years.
 ::::
 
 :::: {.project .page-columns .page-full #mackerel}
@@ -129,23 +123,20 @@ Striped marlin are a prized recreational catch off eastern Australia and New Zea
 
 [Placeholder photo: Hugh Chan, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/633510499){.credit}
 
-Student
-: \[Name\], \[degree\]
-
-Supervisors
-: \[Primary supervisor\], Barrett Wolfe
+Students
+: Two student projects, 2023 and 2024
 
 Related
 : Small Pelagic Fishery assessment reports (Ward et al. 2025)
 :::
 
 ::: {.eyebrow}
-\[Degree\] · \[year\]
+Student projects · 2023, 2024
 :::
 
 <h3>Blue mackerel age and growth</h3>
 
-Blue mackerel (*Scomber australasicus*) are one of the main species taken in Australia's Small Pelagic Fishery. Reliable estimates of age and growth show how productive the stock is and how it may respond to fishing. \[Add region, samples and method.\]
+Blue mackerel (*Scomber australasicus*) are one of the main species taken in Australia's Small Pelagic Fishery. Reliable estimates of age and growth show how productive the stock is and how it may respond to fishing.
 ::::
 
 ::::::
@@ -154,9 +145,9 @@ Blue mackerel (*Scomber australasicus*) are one of the main species taken in Aus
 
 :::: {.project .page-columns .page-full #tunas-billfishes}
 ::: {.column-margin}
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/347148712/large.jpeg){fig-alt="Striped marlin (placeholder photo)"}
+![](images/lab/marlin-release.jpg){fig-alt="Barrett Wolfe and a deckhand bringing a marlin alongside the boat for release" .margin-photo}
 
-[Placeholder photo: Sue Carnahan, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/347148712){.credit}
+[Bringing a marlin alongside for release.]{.credit}
 
 Funding
 : Fisheries Research and Development Corporation, 2023–2025
@@ -179,9 +170,17 @@ Recreational catches of tunas and billfishes are recorded in club records, chart
 
 :::: {.project .page-columns .page-full #swordfish}
 ::: {.column-margin}
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/487200592/large.jpg){fig-alt="Swordfish (placeholder photo)"}
+![](images/lab/swordfish-tagging.jpg){fig-alt="Anglers holding a swordfish alongside the boat while a satellite tag is attached" .margin-photo}
 
-[Placeholder photo: Demian Hiß, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/487200592){.credit}
+[Tagging a swordfish alongside a recreational fishing boat.]{.credit}
+
+```{=html}
+<video class="loop-video margin-video" autoplay muted loop playsinline preload="metadata" poster="images/lab/swordfish-tracks.jpg" aria-label="Animated monthly positions of tagged swordfish">
+  <source src="images/lab/swordfish-tracks.mp4" type="video/mp4">
+</video>
+```
+
+[Monthly positions of the tagged swordfish.]{.credit}
 
 With
 : Sean Tracey and colleagues, IMAS
@@ -201,9 +200,9 @@ Electronic tags on swordfish caught by recreational anglers in temperate Austral
 
 :::: {.project .page-columns .page-full #redmap}
 ::: {.column-margin}
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/254526926/large.jpeg){fig-alt="Bluethroat wrasse, Tasmania (placeholder photo)"}
+![](images/lab/redmap-report-card.jpg){fig-alt="A page from the Redmap New South Wales report card showing out-of-range species along the coast" .margin-photo}
 
-[Placeholder photo: ttsquid, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/254526926){.credit}
+[A page from the Redmap New South Wales report card.]{.credit}
 
 Website
 : [redmap.org.au](https://www.redmap.org.au)
@@ -245,9 +244,9 @@ Sand flathead are among Tasmania's most popular recreational fish. We contribute
 
 :::: {.project .page-columns .page-full #crayfish-point}
 ::: {.column-margin}
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/284902095/large.jpeg){fig-alt="Southern rock lobster, Tasmania (placeholder photo)"}
+![](images/lab/tagging-on-the-water.jpg){fig-alt="Barrett Wolfe implanting an acoustic tag on the deck while a student fishes from the stern" .margin-photo}
 
-[Placeholder photo: ttsquid, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/284902095){.credit}
+[Tagging fish on the water in southeast Tasmania.]{.credit}
 
 Species of interest
 : Bluethroat wrasse, sand flathead, southern rock lobster and juvenile snapper
@@ -264,9 +263,9 @@ A small array of acoustic receivers off Crayfish Point, Taroona, would give stud
 
 :::: {.project .page-columns .page-full #snapper}
 ::: {.column-margin}
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/465264756/large.jpg){fig-alt="Snapper (placeholder photo)"}
+![](images/lab/snapper-tagging.jpg){fig-alt="A snapper on a padded tagging cradle on a boat" .margin-photo}
 
-[Placeholder photo: porkytama, CC BY 4.0, via iNaturalist](https://www.inaturalist.org/photos/465264756){.credit}
+[A snapper on the tagging cradle before release, southeast Tasmania.]{.credit}
 
 Outputs
 : Wolfe et al. 2020, *Conservation Physiology*; PhD thesis, University of Tasmania, 2021

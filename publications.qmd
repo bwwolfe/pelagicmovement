@@ -14,6 +14,7 @@ Publications
 
 # Papers and reports {.page-title}
 
+:::: {.project .intro .page-columns .page-full}
 ::: {.column-margin}
 [Google Scholar](https://scholar.google.com/citations?user=5sLIXE4AAAAJ) · [ORCID](https://orcid.org/0000-0002-9406-0578)
 
@@ -23,6 +24,7 @@ Lab members in bold.
 ::: {.lede}
 Selected papers and reports, newest first. The complete list is kept up to date on Google Scholar and ORCID.
 :::
+::::
 
 ::: {#pubs .column-page-right}
 :::

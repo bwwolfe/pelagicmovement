@@ -17,7 +17,21 @@ Source for [pelagicmovement.com](https://pelagicmovement.com), built with [Quart
 | `CNAME` | The custom domain |
 | `.github/workflows/publish.yml` | Renders and deploys the site |
 
-Margin notes use Quarto's `::: {.column-margin}` blocks. A margin block sits beside whatever comes after it, so put it just above the paragraph or heading it belongs to. On the Research and People pages each project is wrapped in a `:::: {.project .page-columns .page-full}` block so a tall margin (photo plus facts) never runs into the next project.
+Margin notes use Quarto's `::: {.column-margin}` blocks. Quarto lines a margin block up with the block just before it, which is easy to get wrong, so every section that has a margin note is wrapped in its own grid with the note first:
+
+```
+:::: {.project .page-columns .page-full}
+::: {.column-margin}
+The margin note, photo or facts.
+:::
+
+<h3>Heading</h3>
+
+Body text.
+::::
+```
+
+The note then starts level with the top of that section and never runs into the next one. Add `.theme` (as on the home page) to drop a text-only note down level with the heading, or `.intro` for the block under a page title.
 
 ## Replacing placeholder photos
 

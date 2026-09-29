@@ -9,6 +9,7 @@ Research
 
 # Research and projects {.page-title}
 
+:::: {.project .intro .page-columns .page-full}
 ::: {.column-margin}
 Looking for a project? See [Join the lab](people.qmd#join), or get in touch with an idea of your own.
 :::
@@ -16,6 +17,7 @@ Looking for a project? See [Join the lab](people.qmd#join), or get in touch with
 ::: {.lede}
 Our projects range from national citizen science to studies of single species, and many are designed with the fishers and managers who will use the results. Student projects sit alongside the funded work, and often grow out of it.
 :::
+::::
 
 :::::: {.band .page-columns .page-full}
 

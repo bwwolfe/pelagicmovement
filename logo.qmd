@@ -1,0 +1,91 @@
+---
+pagetitle: "Logo and icons"
+description: "The Pelagic Movement Lab logo, icons and badges, with files to download."
+---
+
+::: {.eyebrow .muted .first .page-top}
+Logo
+:::
+
+# Logo and icons {.page-title}
+
+::: {.lede}
+The logo follows a tagged fish across ocean layers that run from warm at the top to cold at the bottom, under a breaking wave. A burst of tail beats from an accelerometer sits on the track, and an acoustic ping marks the last detection. Lab members and students are welcome to use these files for talks and posters.
+:::
+
+::: {.column-page}
+```{=html}
+<div class="logo-grid">
+  <div class="logo-item">
+    <div class="logo-tile"><img src="images/logo/logo.svg" alt="Pelagic Movement Lab logo"></div>
+    <span class="logo-name">Logo</span>
+    <a href="images/logo/logo.svg" download>SVG</a> · <a href="images/logo/logo.png" download>PNG</a>
+  </div>
+  <div class="logo-item">
+    <div class="logo-tile dark"><img src="images/logo/logo-dark.svg" alt="Logo for dark backgrounds"></div>
+    <span class="logo-name">On dark backgrounds</span>
+    <a href="images/logo/logo-dark.svg" download>SVG</a> · <a href="images/logo/logo-dark.png" download>PNG</a>
+  </div>
+  <div class="logo-item">
+    <div class="logo-tile"><img class="wide" src="images/logo/lockup.svg" alt="Logo with the lab name"></div>
+    <span class="logo-name">With the name</span>
+    <a href="images/logo/lockup.svg" download>SVG</a> · <a href="images/logo/lockup.png" download>PNG</a>
+  </div>
+  <div class="logo-item">
+    <div class="logo-tile dark"><img class="wide" src="images/logo/lockup-dark.svg" alt="Logo with the lab name, for dark backgrounds"></div>
+    <span class="logo-name">With the name, on dark</span>
+    <a href="images/logo/lockup-dark.svg" download>SVG</a> · <a href="images/logo/lockup-dark.png" download>PNG</a>
+  </div>
+  <div class="logo-item">
+    <div class="logo-tile"><img src="images/logo/icon.svg" alt="Square icon"></div>
+    <span class="logo-name">Square icon</span>
+    <a href="images/logo/icon.svg" download>SVG</a> · <a href="images/logo/icon.png" download>PNG</a>
+  </div>
+  <div class="logo-item">
+    <div class="logo-tile"><img src="images/logo/icon-small.svg" alt="Simplified icon for small sizes" style="max-height: 96px"></div>
+    <span class="logo-name">Small icon, for 16 to 32 px</span>
+    <a href="images/logo/icon-small.svg" download>SVG</a> · <a href="images/icons/favicon-32.png" download>PNG</a>
+  </div>
+  <div class="logo-item">
+    <div class="logo-tile"><img src="images/logo/roundel.svg" alt="Roundel badge"></div>
+    <span class="logo-name">Roundel</span>
+    <a href="images/logo/roundel.svg" download>SVG</a> · <a href="images/logo/roundel.png" download>PNG</a>
+  </div>
+  <div class="logo-item">
+    <div class="logo-tile harbour"><img src="images/logo/sticker.svg" alt="Sticker with a white edge"></div>
+    <span class="logo-name">Sticker</span>
+    <a href="images/logo/sticker.svg" download>SVG</a> · <a href="images/logo/sticker.png" download>PNG</a>
+  </div>
+  <div class="logo-item">
+    <div class="logo-tile"><img src="images/logo/logo-single-ink.svg" alt="Single-ink logo"></div>
+    <span class="logo-name">Single ink</span>
+    <a href="images/logo/logo-single-ink.svg" download>SVG</a> · <a href="images/logo/logo-single-ink.png" download>PNG</a>
+  </div>
+  <div class="logo-item">
+    <div class="logo-tile dark"><img src="images/logo/logo-single-ink-reversed.svg" alt="Single-ink logo in cream"></div>
+    <span class="logo-name">Single ink, reversed</span>
+    <a href="images/logo/logo-single-ink-reversed.svg" download>SVG</a> · <a href="images/logo/logo-single-ink-reversed.png" download>PNG</a>
+  </div>
+</div>
+```
+:::
+
+## Colours
+
+::: {.column-page}
+```{=html}
+<div class="logo-swatches">
+  <div><span class="sw" style="background:#A4471F"></span>#A4471F</div>
+  <div><span class="sw" style="background:#BA7040"></span>#BA7040</div>
+  <div><span class="sw" style="background:#AB9A4F"></span>#AB9A4F</div>
+  <div><span class="sw" style="background:#5E8A70"></span>#5E8A70</div>
+  <div><span class="sw" style="background:#2E637A"></span>#2E637A</div>
+  <div><span class="sw" style="background:#1F3F5B"></span>#1F3F5B</div>
+  <div><span class="sw" style="background:#17293A"></span>#17293A navy</div>
+  <div><span class="sw" style="background:#2A5C7A"></span>#2A5C7A harbour</div>
+  <div><span class="sw" style="background:#E8EDF0"></span>#E8EDF0 steel</div>
+</div>
+```
+:::
+
+The six band colours run from warm to cold, top to bottom. Navy is used for the track and text, harbour blue for the nodes and links, and steel for page bands. The headings are set in Crimson Pro and the labels in Public Sans.

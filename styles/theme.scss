@@ -82,7 +82,7 @@ main.content > h2:first-child { margin-top: 0; }
   box-shadow: none;
   border-bottom: 0;
 }
-.navbar-brand img { max-height: 28px; margin-right: 0.6rem; }
+.navbar-brand img { height: 42px; max-height: 42px; width: 42px; margin-right: 0.7rem; }
 .navbar-title {
   font-family: $font-family-serif;
   font-size: 1.55rem;
@@ -453,3 +453,20 @@ main table em { font-style: italic; }
 .body-video { margin-top: 1.4rem; }
 .project .credit { margin-bottom: 0.4rem; }
 .column-margin img.portrait-photo { aspect-ratio: 4 / 5; object-fit: cover; width: 100%; margin-bottom: 0.6rem; }
+
+
+// Footer logo
+.nav-footer .footer-logo { height: 46px; width: auto; vertical-align: middle; margin: 0 0.7rem 0 0; }
+
+// Logo and icons page
+.logo-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 1.6rem; margin: 1.5rem 0 2.5rem; }
+.logo-item { @extend %sans; font-size: 0.875rem; color: $pml-muted; }
+.logo-item .logo-tile { display: flex; align-items: center; justify-content: center; height: 190px; background: #F4F6F7; border: 1px solid #DDE2E6; margin-bottom: 0.6rem; }
+.logo-item .logo-tile.dark { background: #17293A; border-color: #17293A; }
+.logo-item .logo-tile.harbour { background: #2A5C7A; border-color: #2A5C7A; }
+.logo-item .logo-tile img { max-height: 140px; max-width: 86%; }
+.logo-item .logo-tile img.wide { max-height: 64px; }
+.logo-item .logo-name { color: #17212B; font-weight: 500; display: block; }
+.logo-item a { color: $pml-navy; }
+.logo-swatches { display: flex; flex-wrap: wrap; gap: 1rem; margin: 1rem 0 2rem; @extend %sans; font-size: 0.8rem; color: $pml-muted; }
+.logo-swatches span.sw { display: block; width: 64px; height: 40px; border: 1px solid rgba(23, 41, 58, 0.15); margin-bottom: 0.3rem; }

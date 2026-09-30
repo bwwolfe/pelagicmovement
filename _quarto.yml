@@ -34,7 +34,7 @@ website:
     background: "#17293A"
     foreground: "#CBD5DD"
     left: |
-      [Pelagic Movement Lab]{.footer-title}
+      ![](images/logo-dark.svg){.footer-logo fig-alt="Pelagic Movement Lab logo"} [Pelagic Movement Lab]{.footer-title}
 
       Institute for Marine and Antarctic Studies, University of Tasmania\
       20 Castray Esplanade, Battery Point TAS 7004
@@ -53,6 +53,8 @@ website:
         href: https://www.redmap.org.au
       - text: "Image credits"
         href: credits.qmd
+      - text: "Logo and icons"
+        href: logo.qmd
 
 format:
   html:
@@ -60,6 +62,7 @@ format:
       - default
       - styles/theme.scss
     toc: false
+    include-in-header: _includes/icons.html
     include-after-body: _includes/reduced-motion.html
     anchor-sections: false
     reference-location: margin

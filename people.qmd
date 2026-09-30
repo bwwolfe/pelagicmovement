@@ -7,10 +7,10 @@ description: "Barrett Wolfe and his students, with teaching, collaborators and h
 About
 :::
 
-# About me {.page-title}
+# Barrett Wolfe {.page-title}
 
 ::: {.lede}
-I am based at IMAS in nipaluna/Hobart, and work closely with my students, with colleagues across the institute and with fisheries agencies around Australia.
+Based at IMAS in nipaluna/Hobart, I work closely with my students, with colleagues across the institute and with fisheries agencies around Australia.
 :::
 
 :::: {.project .page-columns .page-full #barrett}
@@ -24,13 +24,11 @@ Profiles
 : [Google Scholar](https://scholar.google.com/citations?user=5sLIXE4AAAAJ) · [ORCID](https://orcid.org/0000-0002-9406-0578) · [UTAS](https://discover.utas.edu.au/Barrett.Wolfe)
 :::
 
-<h2 class="person-name">Barrett Wolfe</h2>
-
 ::: {.eyebrow}
 Research Fellow, Fisheries Scientist
 :::
 
-I am a fisheries scientist interested in how fish make a living in a changing ocean, and in how that knowledge can be put to use by fishers and managers. I studied marine biology at the University of Hawaiʻi at Mānoa (BSc 2009), then tracked fishes and sharks with the California State University Long Beach Shark Lab (MSc 2013). After a good deal of sailing around the Hawaiian Islands and work in fisheries ecology, I came to Tasmania for a PhD.
+I am a fisheries scientist interested in how fish make a living in a changing ocean, and in how that knowledge can be put to use by fishers and managers. I studied marine biology at the University of Hawai[ʻ]{.okina}i at Mānoa (BSc 2009), then tracked fishes and sharks with the California State University Long Beach Shark Lab (MSc 2013). After a good deal of sailing around the Hawaiian Islands and work in fisheries ecology, I came to Tasmania for a PhD.
 
 My PhD at IMAS (2021) looked at the physiological and behavioural mechanisms behind the range extension of snapper into southeast Tasmania. I am now a Research Fellow with the Sustainable Marine Research Collaboration at IMAS and national coordinator of Redmap Australia, and I supervise PhD, Masters and Honours students alongside coordinating undergraduate and postgraduate units.
 ::::

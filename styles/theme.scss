@@ -416,8 +416,10 @@ a.button:hover { background: $pml-rust; }
 .nav-footer-right .nav-link { padding: 0.1rem 0; }
 
 // Smaller screens ---------------------------------------------------------
-@media (max-width: 991.98px) {
+@media (max-width: 767.98px) {
   .project > .column-margin.no-row-height { grid-row: auto; order: 99; margin-top: 0.5rem; }
+}
+@media (max-width: 991.98px) {
   .card-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .pub { grid-template-columns: minmax(0, 1fr); }
   .pub-note { grid-row: 1; }
@@ -496,3 +498,6 @@ main table em { font-style: italic; }
 .logo-item a { color: $pml-navy; }
 .logo-swatches { display: flex; flex-wrap: wrap; gap: 1rem; margin: 1rem 0 2rem; @extend %sans; font-size: 0.8rem; color: $pml-muted; }
 .logo-swatches span.sw { display: block; width: 64px; height: 40px; border: 1px solid rgba(23, 41, 58, 0.15); margin-bottom: 0.3rem; }
+
+// Crimson Pro's ʻokina has very wide side bearings; pull it in to sit like an apostrophe
+.okina { margin: 0 -0.16em 0 -0.17em; }

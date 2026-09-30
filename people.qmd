@@ -1,16 +1,16 @@
 ---
-pagetitle: "People"
+pagetitle: "About"
 description: "Barrett Wolfe and his students, with teaching, collaborators and how to join."
 ---
 
 ::: {.eyebrow .muted .first .page-top}
-People
+About
 :::
 
-# Who we are {.page-title}
+# About me {.page-title}
 
 ::: {.lede}
-A small group based at IMAS in nipaluna/Hobart, working closely with colleagues across the institute and in fisheries agencies around Australia.
+I am based at IMAS in nipaluna/Hobart, and work closely with my students, with colleagues across the institute and with fisheries agencies around Australia.
 :::
 
 :::: {.project .page-columns .page-full #barrett}
@@ -57,7 +57,7 @@ PhD, current
 
 [What makes a fish vulnerable? Linking stress physiology, behaviour and angling in an iconic species]{.name}
 
-[Co-supervised by Barrett Wolfe]{.sup}
+[Co-supervised]{.sup}
 :::
 
 ::: {.student .no-thumb}
@@ -65,7 +65,7 @@ PhD, current
 
 [Integrating movement and physiological data to assess bycatch mortality of deep-sea skate *Bathyraja irrasa* in demersal longline fisheries]{.name}
 
-[Co-supervised by Barrett Wolfe]{.sup}
+[Co-supervised]{.sup}
 :::
 
 ::: {.list-head}
@@ -79,7 +79,7 @@ PhD, completed
 
 [Assessing the status of a commercially important emperor (*Lethrinus olivaceus*) to inform coral reef fisheries management in Palau]{.thesis}
 
-[Co-supervised by Barrett Wolfe]{.sup}
+[Co-supervised]{.sup}
 :::
 
 ::: {.list-head}
@@ -135,7 +135,7 @@ I coordinate Fishing Technology and Science of Fishing at UTAS, and lecture acro
 
 <h2>Collaborators and partners</h2>
 
-We work with colleagues across IMAS and the Centre for Marine Socioecology, with fisheries agencies including NSW DPIRD and Tasmania's Department of Natural Resources and Environment, and with fishing clubs and charter operators in Australia and New Zealand. Funding has come from the Fisheries Research and Development Corporation, the Australian Government's National Environmental Science Program, the NSW Marine Estate Management Strategy, the Victorian Fisheries Authority, the Tasmanian Government's Fishwise program, TARFish, the Sea World Research and Rescue Foundation and the PADI Foundation.
+I work with colleagues across IMAS and the Centre for Marine Socioecology, with fisheries agencies including NSW DPIRD and Tasmania's Department of Natural Resources and Environment, and with fishing clubs and charter operators in Australia and New Zealand. My work has been funded by the Fisheries Research and Development Corporation, the Australian Government's National Environmental Science Program, the NSW Marine Estate Management Strategy, the Victorian Fisheries Authority, the Tasmanian Government's Fishwise program, TARFish, the Sea World Research and Rescue Foundation and the PADI Foundation.
 ::::
 
 :::: {.project .page-columns .page-full #join}
@@ -153,5 +153,5 @@ I am keen to hear from prospective Honours, Masters and PhD students interested 
 
 To get in touch, send a short note on what interests you and why, with your CV and academic transcript.
 
-[Email Barrett](mailto:barrett.wolfe@utas.edu.au){.button}
+[Email me](mailto:barrett.wolfe@utas.edu.au){.button}
 ::::

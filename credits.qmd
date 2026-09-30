@@ -10,7 +10,7 @@ Credits
 # Image credits {.page-title}
 
 ::: {.lede}
-Photographs and animations of Barrett's own work are from his research and talks. The remaining photographs are placeholders shared by iNaturalist contributors under the Creative Commons Attribution 4.0 licence (CC BY 4.0), and will be replaced with his own.
+Photographs and animations of my own work are from my research and talks. The remaining photographs are placeholders shared by iNaturalist contributors under the Creative Commons Attribution 4.0 licence (CC BY 4.0), and will be replaced with my own.
 :::
 
 ## Own images

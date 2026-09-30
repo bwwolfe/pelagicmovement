@@ -15,7 +15,7 @@ Looking for a project? See [Study with me](people.qmd#join), or get in touch wit
 :::
 
 ::: {.lede}
-Our projects range from national citizen science to studies of single species, and many are designed with the fishers and managers who will use the results. Student projects sit alongside the funded work, and often grow out of it.
+My projects range from national citizen science to studies of single species, and many are designed with the fishers and managers who will use the results. Student projects sit alongside the funded work, and often grow out of it.
 :::
 ::::
 
@@ -32,8 +32,8 @@ Our projects range from national citizen science to studies of single species, a
 Degree
 : PhD, from 2026
 
-Supervision
-: Co-supervised by Barrett Wolfe
+My role
+: Co-supervisor
 
 Thesis
 : What makes a fish vulnerable? Linking stress physiology, behaviour and angling in an iconic species
@@ -57,8 +57,8 @@ Some fish are more likely to be caught than others. This PhD links stress physio
 Degree
 : PhD, from 2022
 
-Supervision
-: Co-supervised by Barrett Wolfe
+My role
+: Co-supervisor
 
 Thesis
 : Integrating movement and physiological data to assess bycatch mortality of deep-sea skate *Bathyraja irrasa* in demersal longline fisheries
@@ -82,8 +82,8 @@ Skates are a common bycatch in demersal longline fisheries. This PhD combines mo
 Student
 : Christina Muller-Karanassos, PhD 2022–2026
 
-Supervision
-: Co-supervised by Barrett Wolfe
+My role
+: Co-supervisor
 :::
 
 ::: {.eyebrow}
@@ -217,7 +217,7 @@ Ongoing
 
 <h3>Redmap Australia</h3>
 
-Redmap invites fishers, divers and beachgoers to log marine species they see outside their usual range, and each record is checked by a scientist. Barrett coordinates Redmap nationally, and uses these records alongside other citizen science data to track climate-driven range extensions.
+Redmap invites fishers, divers and beachgoers to log marine species they see outside their usual range, and each record is checked by a scientist. I coordinate Redmap nationally, and use these records alongside other citizen science data to track climate-driven range extensions.
 ::::
 
 :::: {.project .page-columns .page-full #flathead}
@@ -239,7 +239,7 @@ Collaboration
 
 <h3>Sand flathead in Tasmania</h3>
 
-Sand flathead are among Tasmania's most popular recreational fish. We contributed to a cost-effective approach to monitoring and assessing the fishery, and to work showing how fish differ between heavily and lightly fished regions.
+Sand flathead are among Tasmania's most popular recreational fish. I contributed to a cost-effective approach to monitoring and assessing the fishery, and to work showing how fish differ between heavily and lightly fished regions.
 ::::
 
 :::: {.project .page-columns .page-full #crayfish-point}
@@ -277,5 +277,5 @@ PhD · 2021
 
 <h3>Snapper at their southern range edge</h3>
 
-Snapper (*Chrysophrys auratus*) have become established in southeast Tasmania, south of their historical range. Barrett's PhD combined field work with laboratory trials to test how winter temperatures and behaviour shape where they can persist.
+Snapper (*Chrysophrys auratus*) have become established in southeast Tasmania, south of their historical range. My PhD combined field work with laboratory trials to test how winter temperatures and behaviour shape where they can persist.
 ::::

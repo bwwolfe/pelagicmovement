@@ -86,7 +86,24 @@ main.content > h2:first-child { margin-top: 0; }
 .navbar-title {
   font-family: $font-family-serif;
   font-size: 1.55rem;
+  line-height: 1.1;
   letter-spacing: 0.005em;
+}
+.navbar-subtitle {
+  @extend %sans;
+  display: block;
+  margin-top: 0.2rem;
+  font-size: 0.72rem;
+  line-height: 1.2;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: $pml-muted;
+}
+@media (max-width: 991.98px) {
+  .navbar-title { font-size: 1.3rem; }
+  .navbar-brand img { height: 36px; max-height: 36px; width: 36px; margin-right: 0.55rem; }
+  .navbar-subtitle { font-size: 0.66rem; }
+  .navbar-brand-container { max-width: calc(100% - 64px); }
 }
 .navbar .nav-link {
   font-size: 0.875rem;
@@ -385,6 +402,15 @@ a.button:hover { background: $pml-rust; }
 .nav-footer-left { text-align: left; max-width: 38rem; }
 .nav-footer-left p { margin-bottom: 0.8rem; }
 .nav-footer .footer-title { font-family: $font-family-serif; font-size: 1.4rem; color: #FFFFFF; }
+.nav-footer .footer-name { display: inline-block; vertical-align: middle; line-height: 1.15; }
+.nav-footer .footer-name .footer-title, .nav-footer .footer-name .footer-subtitle { display: block; }
+.nav-footer .footer-subtitle {
+  font-size: 0.68rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #CBD5DD;
+  margin-top: 0.2rem;
+}
 .nav-footer a { color: #FFFFFF; }
 .nav-footer-right .footer-items { flex-direction: column; align-items: flex-end; gap: 0.15rem; }
 .nav-footer-right .nav-link { padding: 0.1rem 0; }

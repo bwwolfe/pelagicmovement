@@ -1,6 +1,6 @@
 ---
-pagetitle: "Pelagic Movement"
-description: "Fish movement, physiology and fisheries in a changing ocean. Led by Dr Barrett Wolfe at IMAS, University of Tasmania."
+pagetitle: "Barrett Wolfe"
+description: "Dr Barrett Wolfe's research on fish movement, physiology and fisheries in a changing ocean, at IMAS, University of Tasmania."
 image: images/lab/marlin-release.jpg
 ---
 
@@ -12,21 +12,21 @@ Institute for Marine and Antarctic Studies · University of Tasmania
 
 :::: {.project .intro .page-columns .page-full}
 ::: {.column-margin}
-Dr Barrett Wolfe, Research Fellow and fisheries scientist at IMAS and national coordinator of [Redmap Australia](https://www.redmap.org.au). Based in nipaluna/Hobart, lutruwita/Tasmania.
+I am a Research Fellow and fisheries scientist at IMAS and national coordinator of [Redmap Australia](https://www.redmap.org.au), based in nipaluna/Hobart, lutruwita/Tasmania.
 :::
 
 ::: {.lede}
-We study how coastal and pelagic fishes move and what limits where they can live as Australia's oceans warm. Much of the work is done with recreational fishers and citizen scientists, and is aimed at questions that fishery managers need answered.
+I study how coastal and pelagic fishes move and what limits where they can live as Australia's oceans warm. Much of my work is done with recreational fishers and citizen scientists, and is aimed at questions that fishery managers need answered.
 :::
 ::::
 
 ::: {.hero-figure .column-page-right}
 ![](images/lab/marlin-release.jpg){fig-alt="Barrett Wolfe, right, and a deckhand bring a marlin alongside the boat for release" .hero-photo}
 
-[Bringing a marlin alongside for release. Barrett is on the right.]{.credit}
+[Bringing a marlin alongside for release (I am on the right).]{.credit}
 :::
 
-## What we work on
+## What I work on
 
 :::: {.project .theme .page-columns .page-full}
 ::: {.column-margin}
@@ -45,7 +45,7 @@ Movement
 
 <h3>Where fish go, and when</h3>
 
-Tags show where fish spend their time, which is the starting point for most spatial management. Our tracking has ranged from white croaker on a contaminated shelf off Los Angeles to swordfish moving between the temperate and tropical southwest Pacific.
+Tags show where fish spend their time, which is the starting point for most spatial management. My tracking work has ranged from white croaker on a contaminated shelf off Los Angeles to swordfish moving between the temperate and tropical southwest Pacific.
 
 ```{=html}
 <video class="loop-video body-video" autoplay muted loop playsinline preload="metadata" poster="images/lab/swordfish-dives.jpg" aria-label="Animated swordfish dive tracks over the seafloor off southeast Australia">
@@ -75,7 +75,7 @@ Physiology
 
 <h3>What sets the limits</h3>
 
-While the direction of range shifts broadly follows ocean warming, how far and how fast a species moves depends on its biology. We pair laboratory trials with field work to test which mechanisms matter, from snapper at their southern range edge to skates and sportfish after capture and release.
+While the direction of range shifts broadly follows ocean warming, how far and how fast a species moves depends on its biology. I pair laboratory trials with field work to test which mechanisms matter, from snapper at their southern range edge to skates and sportfish after capture and release.
 ::::
 
 :::: {.project .theme .page-columns .page-full}
@@ -99,7 +99,7 @@ Citizen science
 
 <h3>Species on the move</h3>
 
-Redmap asks fishers, divers and beachgoers to log marine species they see outside their usual range. Combined with other citizen science and modelling, a decade of these records identified dozens of climate-driven range extensions around Australia.
+Redmap, which I coordinate nationally, asks fishers, divers and beachgoers to log marine species they see outside their usual range. Combined with other citizen science and modelling, a decade of these records identified dozens of climate-driven range extensions around Australia.
 ::::
 
 :::: {.project .theme .page-columns .page-full}
@@ -117,7 +117,7 @@ Fishery data
 
 <h3>Getting more from the records we have</h3>
 
-Many fisheries, recreational ones especially, lack the routine data that stock assessments rely on. We work on drawing reliable indicators from the records that do exist, such as club and charter logbooks, tournaments and tagging programs, and on which new monitoring is worth its cost.
+Many fisheries, recreational ones especially, lack the routine data that stock assessments rely on. I work on drawing reliable indicators from the records that do exist, such as club and charter logbooks, tournaments and tagging programs, and on which new monitoring is worth its cost.
 ::::
 
 ::: {.band .page-columns .page-full}
@@ -195,7 +195,7 @@ Many fisheries, recreational ones especially, lack the routine data that stock a
 
 [Three PhD students, one completed, and seven Honours and Masters students]{.big}
 
-Unit coordinator for Fishing Technology and Science of Fishing at UTAS.
+I also coordinate Fishing Technology and Science of Fishing at UTAS.
 
 [Students and teaching](people.qmd)
 :::
@@ -213,7 +213,7 @@ Honours and Masters projects are also listed each year on the [IMAS study pages]
 
 I am keen to hear from prospective Honours, Masters and PhD students interested in fish movement and physiology, or in making better use of fishery data. Projects range from time on the water to modelling at a desk, and many involve working alongside recreational fishers.
 
-[Email Barrett](mailto:barrett.wolfe@utas.edu.au){.button}
+[Email me](mailto:barrett.wolfe@utas.edu.au){.button}
 ::::
 
 [Student project photos are placeholders from iNaturalist under CC BY 4.0; see [image credits](credits.qmd).]{.credit .page-end-note}

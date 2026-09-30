@@ -8,7 +8,7 @@ Source for [pelagicmovement.com](https://pelagicmovement.com), built with [Quart
 |:--|:--|
 | `index.qmd` | Home page: intro, research themes, student project cards, study with me |
 | `research.qmd` | Student projects and collaborations, each with margin facts and a photo |
-| `people.qmd` | Bio, students, teaching, collaborators, study with me |
+| `people.qmd` | About page: bio, students, teaching, collaborators, study with me |
 | `publications.qmd` + `data/publications.yml` | Publication list; add papers to the YAML file |
 | `credits.qmd` | Photo credits (keep this up to date while any placeholder photos remain) |
 | `_quarto.yml` | Site settings, navigation bar and footer |

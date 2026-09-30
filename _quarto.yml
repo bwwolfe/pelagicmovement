@@ -11,7 +11,7 @@ lang: en-AU
 
 website:
   title: "Pelagic Movement"
-  description: "Fish movement, physiology and fisheries in a changing ocean. Led by Dr Barrett Wolfe at the Institute for Marine and Antarctic Studies, University of Tasmania."
+  description: "Dr Barrett Wolfe's research on fish movement, physiology and fisheries in a changing ocean, at the Institute for Marine and Antarctic Studies, University of Tasmania."
   site-url: "https://pelagicmovement.com"
   favicon: images/favicon.svg
   open-graph: true
@@ -19,12 +19,12 @@ website:
   navbar:
     logo: images/logo.svg
     logo-alt: "Pelagic Movement logo"
-    title: "Pelagic Movement"
+    title: "Pelagic Movement [Barrett Wolfe]{.navbar-subtitle}"
     background: light
     right:
       - text: Research
         href: research.qmd
-      - text: People
+      - text: About
         href: people.qmd
       - text: Publications
         href: publications.qmd
@@ -34,12 +34,12 @@ website:
     background: "#17293A"
     foreground: "#CBD5DD"
     left: |
-      ![](images/logo-dark.svg){.footer-logo fig-alt="Pelagic Movement logo"} [Pelagic Movement]{.footer-title}
+      ![](images/logo-dark.svg){.footer-logo fig-alt="Pelagic Movement logo"} [[Pelagic Movement]{.footer-title} [Barrett Wolfe]{.footer-subtitle}]{.footer-name}
 
       Institute for Marine and Antarctic Studies, University of Tasmania\
       20 Castray Esplanade, Battery Point TAS 7004
 
-      We acknowledge the palawa/pakana people, the Traditional Owners of lutruwita/Tasmania, and pay our respects to Elders past and present.
+      I acknowledge the palawa/pakana people, the Traditional Owners of lutruwita/Tasmania, and pay my respects to Elders past and present.
     right:
       - text: "barrett.wolfe@utas.edu.au"
         href: mailto:barrett.wolfe@utas.edu.au

@@ -1,6 +1,6 @@
 ---
 pagetitle: "Logo and icons"
-description: "The Pelagic Movement Lab logo, icons and badges, with files to download."
+description: "The Pelagic Movement logo, icons and badges, with files to download."
 ---
 
 ::: {.eyebrow .muted .first .page-top}
@@ -10,14 +10,14 @@ Logo
 # Logo and icons {.page-title}
 
 ::: {.lede}
-The logo follows a tagged fish across ocean layers that run from warm at the top to cold at the bottom, under a breaking wave. A burst of tail beats from an accelerometer sits on the track, and an acoustic ping marks the last detection. Lab members and students are welcome to use these files for talks and posters.
+The logo follows a tagged fish across ocean layers that run from warm at the top to cold at the bottom, under a breaking wave. A burst of tail beats from an accelerometer sits on the track, and an acoustic ping marks the last detection. Students and collaborators are welcome to use these files for talks and posters.
 :::
 
 ::: {.column-page}
 ```{=html}
 <div class="logo-grid">
   <div class="logo-item">
-    <div class="logo-tile"><img src="images/logo/logo.svg" alt="Pelagic Movement Lab logo"></div>
+    <div class="logo-tile"><img src="images/logo/logo.svg" alt="Pelagic Movement logo"></div>
     <span class="logo-name">Logo</span>
     <a href="images/logo/logo.svg" download>SVG</a> · <a href="images/logo/logo.png" download>PNG</a>
   </div>
@@ -27,12 +27,12 @@ The logo follows a tagged fish across ocean layers that run from warm at the top
     <a href="images/logo/logo-dark.svg" download>SVG</a> · <a href="images/logo/logo-dark.png" download>PNG</a>
   </div>
   <div class="logo-item">
-    <div class="logo-tile"><img class="wide" src="images/logo/lockup.svg" alt="Logo with the lab name"></div>
+    <div class="logo-tile"><img class="wide" src="images/logo/lockup.svg" alt="Logo with the name"></div>
     <span class="logo-name">With the name</span>
     <a href="images/logo/lockup.svg" download>SVG</a> · <a href="images/logo/lockup.png" download>PNG</a>
   </div>
   <div class="logo-item">
-    <div class="logo-tile dark"><img class="wide" src="images/logo/lockup-dark.svg" alt="Logo with the lab name, for dark backgrounds"></div>
+    <div class="logo-tile dark"><img class="wide" src="images/logo/lockup-dark.svg" alt="Logo with the name, for dark backgrounds"></div>
     <span class="logo-name">With the name, on dark</span>
     <a href="images/logo/lockup-dark.svg" download>SVG</a> · <a href="images/logo/lockup-dark.png" download>PNG</a>
   </div>

@@ -10,19 +10,19 @@ Credits
 # Image credits {.page-title}
 
 ::: {.lede}
-Photographs and animations of the lab's own work are from Pelagic Movement Lab research and talks. The remaining photographs are placeholders shared by iNaturalist contributors under the Creative Commons Attribution 4.0 licence (CC BY 4.0), and will be replaced with the lab's own.
+Photographs and animations of Barrett's own work are from his research and talks. The remaining photographs are placeholders shared by iNaturalist contributors under the Creative Commons Attribution 4.0 licence (CC BY 4.0), and will be replaced with his own.
 :::
 
-## Lab images
+## Own images
 
 | Where used | Subject | Source |
 |:-----------|:--------|:-------|
-| Home banner, Research | Marlin release | Pelagic Movement Lab |
+| Home banner, Research | Marlin release | Barrett Wolfe |
 | Home, movement | Swordfish dive tracks from pop-up satellite archival tags | Tracey et al. 2023, *Scientific Reports* |
-| Home and People | Acoustic tagging on the water | Pelagic Movement Lab |
-| Home, fishery data | Game fishing | Pelagic Movement Lab |
-| People | Portrait and field work near Hobart | Pelagic Movement Lab |
-| Research, Crayfish Point | Tagging fish in southeast Tasmania | Pelagic Movement Lab |
+| Home and People | Acoustic tagging on the water | Barrett Wolfe |
+| Home, fishery data | Game fishing | Barrett Wolfe |
+| People | Portrait and field work near Hobart | Barrett Wolfe |
+| Research, Crayfish Point | Tagging fish in southeast Tasmania | Barrett Wolfe |
 | Research, swordfish | Monthly positions of tagged swordfish | Tracey et al. 2023, *Scientific Reports* |
 | Research, swordfish | Tagging a swordfish at the boat | \[Photo credit\] |
 | Home, physiology | Tagged snapper in a swim tunnel | Wolfe, PhD research, IMAS |

@@ -1,4 +1,4 @@
-# Pelagic Movement Lab website
+# Pelagic Movement website
 
 Source for [pelagicmovement.com](https://pelagicmovement.com), built with [Quarto](https://quarto.org) and published to GitHub Pages by a GitHub Actions workflow on every push to `main`.
 
@@ -6,9 +6,9 @@ Source for [pelagicmovement.com](https://pelagicmovement.com), built with [Quart
 
 | File | What it holds |
 |:--|:--|
-| `index.qmd` | Home page: intro, research themes, student project cards, join the lab |
-| `research.qmd` | Student projects and lab projects, each with margin facts and a photo |
-| `people.qmd` | Bio, students, teaching, collaborators, join the lab |
+| `index.qmd` | Home page: intro, research themes, student project cards, study with me |
+| `research.qmd` | Student projects and collaborations, each with margin facts and a photo |
+| `people.qmd` | Bio, students, teaching, collaborators, study with me |
 | `publications.qmd` + `data/publications.yml` | Publication list; add papers to the YAML file |
 | `credits.qmd` | Photo credits (keep this up to date while any placeholder photos remain) |
 | `_quarto.yml` | Site settings, navigation bar and footer |

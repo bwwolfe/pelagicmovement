@@ -1,6 +1,6 @@
 ---
 pagetitle: "Publications"
-description: "Selected papers and reports from the Pelagic Movement Lab."
+description: "Selected papers and reports by Barrett Wolfe and his students."
 listing:
   id: pubs
   contents: data/publications.yml
@@ -17,8 +17,6 @@ Publications
 :::: {.project .intro .page-columns .page-full}
 ::: {.column-margin}
 [Google Scholar](https://scholar.google.com/citations?user=5sLIXE4AAAAJ) · [ORCID](https://orcid.org/0000-0002-9406-0578)
-
-Lab members in bold.
 :::
 
 ::: {.lede}

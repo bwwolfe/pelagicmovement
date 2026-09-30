@@ -1,6 +1,6 @@
 ---
 pagetitle: "People"
-description: "Barrett Wolfe and the students of the Pelagic Movement Lab, with teaching, collaborators and how to join."
+description: "Barrett Wolfe and his students, with teaching, collaborators and how to join."
 ---
 
 ::: {.eyebrow .muted .first .page-top}
@@ -27,7 +27,7 @@ Profiles
 <h2 class="person-name">Barrett Wolfe</h2>
 
 ::: {.eyebrow}
-Research Fellow, Fisheries Scientist · Principal investigator
+Research Fellow, Fisheries Scientist
 :::
 
 I am a fisheries scientist interested in how fish make a living in a changing ocean, and in how that knowledge can be put to use by fishers and managers. I studied marine biology at the University of Hawaiʻi at Mānoa (BSc 2009), then tracked fishes and sharks with the California State University Long Beach Shark Lab (MSc 2013). After a good deal of sailing around the Hawaiian Islands and work in fisheries ecology, I came to Tasmania for a PhD.
@@ -147,7 +147,7 @@ PhD scholarships: \[link to the current UTAS round and closing dates\]
 ![](images/lab/acoustic-tagging.jpg){fig-alt="Barrett Wolfe tagging a fish on a padded cradle on a boat's deck" .margin-photo}
 :::
 
-<h2>Join the lab</h2>
+<h2>Study with me</h2>
 
 I am keen to hear from prospective Honours, Masters and PhD students interested in fish movement and physiology, or in making better use of fishery data. Projects range from time on the water to modelling at a desk, and many involve working alongside recreational fishers.
 

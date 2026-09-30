@@ -1,6 +1,6 @@
 ---
 pagetitle: "Research and projects"
-description: "Student projects and lab projects on fish movement, physiology, citizen science and fishery data."
+description: "Student projects and collaborations on fish movement, physiology, citizen science and fishery data."
 ---
 
 ::: {.eyebrow .muted .first .page-top}
@@ -11,7 +11,7 @@ Research
 
 :::: {.project .intro .page-columns .page-full}
 ::: {.column-margin}
-Looking for a project? See [Join the lab](people.qmd#join), or get in touch with an idea of your own.
+Looking for a project? See [Study with me](people.qmd#join), or get in touch with an idea of your own.
 :::
 
 ::: {.lede}
@@ -141,7 +141,7 @@ Blue mackerel (*Scomber australasicus*) are one of the main species taken in Aus
 
 ::::::
 
-## Lab projects
+## Projects and collaborations
 
 :::: {.project .page-columns .page-full #tunas-billfishes}
 ::: {.column-margin}
@@ -160,7 +160,7 @@ Output
 :::
 
 ::: {.eyebrow}
-Principal investigator · FRDC 2022-173
+Project lead · FRDC 2022-173
 :::
 
 <h3>Recreational catch data for tropical tunas and billfishes</h3>
@@ -217,7 +217,7 @@ Ongoing
 
 <h3>Redmap Australia</h3>
 
-Redmap invites fishers, divers and beachgoers to log marine species they see outside their usual range, and each record is checked by a scientist. Barrett coordinates Redmap nationally, and the lab uses these records alongside other citizen science data to track climate-driven range extensions.
+Redmap invites fishers, divers and beachgoers to log marine species they see outside their usual range, and each record is checked by a scientist. Barrett coordinates Redmap nationally, and uses these records alongside other citizen science data to track climate-driven range extensions.
 ::::
 
 :::: {.project .page-columns .page-full #flathead}

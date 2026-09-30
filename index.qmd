@@ -1,5 +1,5 @@
 ---
-pagetitle: "Pelagic Movement Lab"
+pagetitle: "Pelagic Movement"
 description: "Fish movement, physiology and fisheries in a changing ocean. Led by Dr Barrett Wolfe at IMAS, University of Tasmania."
 image: images/lab/marlin-release.jpg
 ---
@@ -12,7 +12,7 @@ Institute for Marine and Antarctic Studies · University of Tasmania
 
 :::: {.project .intro .page-columns .page-full}
 ::: {.column-margin}
-Principal investigator: Dr Barrett Wolfe, Research Fellow and fisheries scientist at IMAS and national coordinator of [Redmap Australia](https://www.redmap.org.au). Based in nipaluna/Hobart, lutruwita/Tasmania.
+Dr Barrett Wolfe, Research Fellow and fisheries scientist at IMAS and national coordinator of [Redmap Australia](https://www.redmap.org.au). Based in nipaluna/Hobart, lutruwita/Tasmania.
 :::
 
 ::: {.lede}
@@ -209,7 +209,7 @@ Unit coordinator for Fishing Technology and Science of Fishing at UTAS.
 Honours and Masters projects are also listed each year on the [IMAS study pages](https://www.utas.edu.au/imas/study/honours-and-masters-projects). For a PhD, get in touch well before the scholarship round closes.
 :::
 
-<h2>Join the lab</h2>
+<h2>Study with me</h2>
 
 I am keen to hear from prospective Honours, Masters and PhD students interested in fish movement and physiology, or in making better use of fishery data. Projects range from time on the water to modelling at a desk, and many involve working alongside recreational fishers.
 

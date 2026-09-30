@@ -434,7 +434,7 @@ main table em { font-style: italic; }
 .summary-card .eyebrow, .summary-card .big { display: block; }
 .page-end-note { margin-top: 3rem; }
 
-// Lab videos and photos ---------------------------------------------------------
+// Videos and photos ---------------------------------------------------------
 .loop-video { width: 100%; display: block; background: #E8EDF0; }
 .hero-figure video.loop-video { aspect-ratio: 1000 / 508; object-fit: cover; }
 .column-margin .margin-video { margin-top: 0.9rem; }
@@ -448,7 +448,7 @@ main table em { font-style: italic; }
 .student.no-thumb .eyebrow, .student.no-thumb .name, .student.no-thumb .thesis, .student.no-thumb .sup { display: block; }
 .list-note { @extend %sans; display: block; font-size: 0.875rem; color: $pml-muted; margin-top: 0.4rem; }
 
-// Photos of the lab at work
+// Photos of field work
 .hero-figure img.hero-photo { aspect-ratio: 16 / 9; object-fit: cover; }
 .body-video { margin-top: 1.4rem; }
 .project .credit { margin-bottom: 0.4rem; }

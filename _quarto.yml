@@ -10,7 +10,7 @@ project:
 lang: en-AU
 
 website:
-  title: "Pelagic Movement Lab"
+  title: "Pelagic Movement"
   description: "Fish movement, physiology and fisheries in a changing ocean. Led by Dr Barrett Wolfe at the Institute for Marine and Antarctic Studies, University of Tasmania."
   site-url: "https://pelagicmovement.com"
   favicon: images/favicon.svg
@@ -18,8 +18,8 @@ website:
   search: false
   navbar:
     logo: images/logo.svg
-    logo-alt: "Pelagic Movement Lab logo"
-    title: "Pelagic Movement Lab"
+    logo-alt: "Pelagic Movement logo"
+    title: "Pelagic Movement"
     background: light
     right:
       - text: Research
@@ -28,13 +28,13 @@ website:
         href: people.qmd
       - text: Publications
         href: publications.qmd
-      - text: Join the lab
+      - text: Study with me
         href: people.qmd#join
   page-footer:
     background: "#17293A"
     foreground: "#CBD5DD"
     left: |
-      ![](images/logo-dark.svg){.footer-logo fig-alt="Pelagic Movement Lab logo"} [Pelagic Movement Lab]{.footer-title}
+      ![](images/logo-dark.svg){.footer-logo fig-alt="Pelagic Movement logo"} [Pelagic Movement]{.footer-title}
 
       Institute for Marine and Antarctic Studies, University of Tasmania\
       20 Castray Esplanade, Battery Point TAS 7004

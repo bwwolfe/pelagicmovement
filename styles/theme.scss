@@ -83,27 +83,66 @@ main.content > h2:first-child { margin-top: 0; }
   border-bottom: 0;
 }
 .navbar-brand img { height: 42px; max-height: 42px; width: 42px; margin-right: 0.7rem; }
+// Header name block: site name over "Barrett Wolfe PhD", then a stacked
+// "movement / physiological / fisheries } ecologist" beside it
 .navbar-title {
+  display: grid;
+  grid-template-columns: auto auto;
+  align-items: center;
   font-family: $font-family-serif;
   font-size: 1.55rem;
   line-height: 1.1;
   letter-spacing: 0.005em;
 }
+.navbar-name { grid-column: 1; grid-row: 1; }
 .navbar-subtitle {
   @extend %sans;
+  grid-column: 1; grid-row: 2;
   display: block;
-  margin-top: 0.2rem;
+  margin-top: 0.25rem;
   font-size: 0.72rem;
   line-height: 1.2;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: $pml-muted;
+  color: $pml-rust;
 }
+.navbar-stack {
+  grid-column: 2; grid-row: 1 / span 2;
+  display: flex;
+  align-items: center;
+  margin-left: 1.1rem;
+  padding-left: 1rem;
+  border-left: 1px solid $pml-rule;
+  font-family: $font-family-serif;
+  font-style: italic;
+  color: $pml-secondary;
+  letter-spacing: 0;
+}
+.navbar-stack .stack-words {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  font-size: 0.9rem;
+  line-height: 1.08;
+}
+.navbar-stack .stack-brace {
+  display: inline-block;
+  font-style: normal;
+  font-size: 2.25rem;
+  line-height: 1;
+  color: $pml-rust;
+  transform: scaleX(0.7);
+  margin: 0 0.15rem 0 0.05rem;
+}
+.navbar-stack .stack-noun { font-size: 1.2rem; }
 @media (max-width: 991.98px) {
   .navbar-title { font-size: 1.3rem; }
   .navbar-brand img { height: 36px; max-height: 36px; width: 36px; margin-right: 0.55rem; }
   .navbar-subtitle { font-size: 0.66rem; }
   .navbar-brand-container { max-width: calc(100% - 64px); }
+}
+@media (max-width: 767.98px) {
+  .navbar-stack { display: none; }
 }
 .navbar .nav-link {
   font-size: 0.875rem;

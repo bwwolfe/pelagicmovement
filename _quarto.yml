@@ -19,7 +19,7 @@ website:
   navbar:
     logo: images/logo.svg
     logo-alt: "Pelagic Movement logo"
-    title: "Pelagic Movement [Barrett Wolfe]{.navbar-subtitle}"
+    title: '[Pelagic Movement]{.navbar-name} [Barrett Wolfe PhD]{.navbar-subtitle} [[[movement]{.w}[, ]{.visually-hidden} [physiological]{.w}[ and ]{.visually-hidden} [fisheries]{.w}]{.stack-words} [&#125;]{.stack-brace aria-hidden="true"} [ecologist]{.stack-noun}]{.navbar-stack}'
     background: light
     right:
       - text: Research
@@ -34,7 +34,7 @@ website:
     background: "#17293A"
     foreground: "#CBD5DD"
     left: |
-      ![](images/logo-dark.svg){.footer-logo fig-alt="Pelagic Movement logo"} [[Pelagic Movement]{.footer-title} [Barrett Wolfe]{.footer-subtitle}]{.footer-name}
+      ![](images/logo-dark.svg){.footer-logo fig-alt="Pelagic Movement logo"} [[Pelagic Movement]{.footer-title} [Barrett Wolfe PhD]{.footer-subtitle}]{.footer-name}
 
       Institute for Marine and Antarctic Studies, University of Tasmania\
       20 Castray Esplanade, Battery Point TAS 7004

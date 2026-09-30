@@ -160,7 +160,7 @@ Output
 :::
 
 ::: {.eyebrow}
-Project lead · FRDC 2022-173
+Principal investigator · FRDC 2022-173
 :::
 
 <h3>Recreational catch data for tropical tunas and billfishes</h3>

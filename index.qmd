@@ -10,21 +10,23 @@ Institute for Marine and Antarctic Studies · University of Tasmania
 
 # Following fish through a changing ocean {.hero-title}
 
-:::: {.project .intro .page-columns .page-full}
-::: {.column-margin}
-I am a Research Fellow and fisheries scientist at IMAS and national coordinator of [Redmap Australia](https://www.redmap.org.au), based in nipaluna/Hobart, lutruwita/Tasmania.
-:::
-
+::::: {.hero .column-page-right}
+:::: {.hero-text}
 ::: {.lede}
 I study how coastal and pelagic fishes move and what limits where they can live as Australia's oceans warm. Much of my work is done with recreational fishers and citizen scientists, and is aimed at questions that fishery managers need answered.
 :::
+
+::: {.hero-note}
+I am a Research Fellow and fisheries scientist at IMAS and national coordinator of [Redmap Australia](https://www.redmap.org.au), based in nipaluna/Hobart, lutruwita/Tasmania.
+:::
 ::::
 
-::: {.hero-figure .column-page-right}
-![](images/lab/marlin-release.jpg){fig-alt="Barrett Wolfe, right, and a deckhand bring a marlin alongside the boat for release" .hero-photo}
+:::: {.hero-media}
+![](images/lab/marlin-release-crop.jpg){fig-alt="Barrett Wolfe steadying a striped marlin alongside the boat while a deckhand holds the leader" .hero-img}
 
-[Bringing a marlin alongside for release (I am on the right).]{.credit}
-:::
+[Bringing a marlin alongside for release.]{.credit}
+::::
+:::::
 
 ## What I work on
 

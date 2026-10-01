@@ -85,6 +85,16 @@ Honours and Masters
 :::
 
 ::: {.student .no-thumb}
+[Masters · 2026]{.eyebrow}
+
+[Junlin Chen]{.name}
+
+[Method of meal delivery influences estimates of postprandial metabolism and alkaline tide in a benthic fish]{.thesis}
+
+[Co-supervised with Harriet Goodrich, Goodfish Lab · [Chen et al. 2026, *Journal of Fish Biology*](https://doi.org/10.1111/jfb.70678)]{.sup}
+:::
+
+::: {.student .no-thumb}
 [2025]{.eyebrow}
 
 [Jennifer Owen]{.name}
@@ -126,14 +136,16 @@ I coordinate Fishing Technology and Science of Fishing at UTAS, and lecture acro
 
 :::: {.project .page-columns .page-full #collaborators}
 ::: {.column-margin}
-::: {.logo-slot}
-\[Funder and partner logos, greyscale\]
-:::
+```{=html}
+<a href="https://goodfishlab.com"><img src="images/partners/goodfish-lab.png" alt="Goodfish Lab logo" class="partner-logo"></a>
+```
+
+[Goodfish Lab, IMAS · [goodfishlab.com](https://goodfishlab.com)]{.credit}
 :::
 
 <h2>Collaborators and partners</h2>
 
-I work with colleagues across IMAS and the Centre for Marine Socioecology, with fisheries agencies including NSW DPIRD and Tasmania's Department of Natural Resources and Environment, and with fishing clubs and charter operators in Australia and New Zealand. My work has been funded by the Fisheries Research and Development Corporation, the Australian Government's National Environmental Science Program, the NSW Marine Estate Management Strategy, the Victorian Fisheries Authority, the Tasmanian Government's Fishwise program, TARFish, the Sea World Research and Rescue Foundation and the PADI Foundation.
+I work most closely with Harriet Goodrich's [Goodfish Lab](https://goodfishlab.com), a fish physiology group at IMAS, and more widely with colleagues across IMAS and the Centre for Marine Socioecology, with fisheries agencies including NSW DPIRD and Tasmania's Department of Natural Resources and Environment, and with fishing clubs and charter operators in Australia and New Zealand. My work has been funded by the Fisheries Research and Development Corporation, the Australian Government's National Environmental Science Program, the NSW Marine Estate Management Strategy, the Victorian Fisheries Authority, the Tasmanian Government's Fishwise program, TARFish, the Sea World Research and Rescue Foundation and the PADI Foundation.
 ::::
 
 :::: {.project .page-columns .page-full #join}

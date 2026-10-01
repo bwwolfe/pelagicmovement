@@ -95,6 +95,27 @@ PhD · completed 2026
 Christina assessed the status of the longface emperor (*Lethrinus olivaceus*), a commercially important reef fish, to inform coral reef fisheries management in Palau.
 ::::
 
+:::: {.project .page-columns .page-full #meal}
+::: {.column-margin}
+Student
+: Junlin Chen, Masters 2026
+
+Supervision
+: Harriet Goodrich (primary), [Goodfish Lab](https://goodfishlab.com); co-supervised by me
+
+Output
+: [Chen et al. 2026, *Journal of Fish Biology*](https://doi.org/10.1111/jfb.70678)
+:::
+
+::: {.eyebrow}
+Masters · 2026
+:::
+
+<h3>Measuring the cost of a meal</h3>
+
+After a fish eats, its metabolic rate rises for hours to days, and the size of that rise is a standard measure of the energetic cost of digestion. Junlin showed that the way a meal is delivered changes these estimates, along with the alkaline tide (the rise in blood bicarbonate that follows acid secretion in the stomach), in a benthic fish. This matters when comparing studies that fed their fish in different ways.
+::::
+
 :::: {.project .page-columns .page-full #marlin}
 ::: {.column-margin}
 ![](https://inaturalist-open-data.s3.amazonaws.com/photos/310593379/large.jpg){fig-alt="Striped marlin (placeholder photo)"}

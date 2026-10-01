@@ -5,6 +5,16 @@
 #   venue (journal or publisher), details (volume, pages or article number), doi, url (if no DOI), note (margin note).
 
 - year: 2026
+  authors_before: "Chen J, "
+  me: "Wolfe BW"
+  authors_after: ", Goodrich HR"
+  title: "Method of meal delivery influences estimates of postprandial metabolism and alkaline tide in a benthic fish."
+  venue: "Journal of Fish Biology"
+  details: "Early view."
+  doi: "10.1111/jfb.70678"
+  note: "From Junlin Chen's Masters project, co-supervised with Harriet Goodrich of the Goodfish Lab."
+
+- year: 2026
   authors_before: "Willis C, Thompson I, Goodrich H, Graba-Landry A, Semmens J, "
   me: "Wolfe B"
   authors_after: ", Tracey SR"
@@ -129,7 +139,7 @@
   venue: "Conservation Physiology"
   details: "8: coaa045."
   doi: "10.1093/conphys/coaa045"
-  note: "From Barrett's PhD on snapper at their southern range edge."
+  note: "From my PhD on snapper at their southern range edge."
 
 - year: 2020
   authors_before: "Twiname S, Audzijonyte A, Blanchard JL, Champion C … Tracey S, Villanueva C, "
@@ -167,7 +177,7 @@
   venue: "Marine Environmental Research"
   details: "109: 69–80."
   doi: "10.1016/j.marenvres.2015.06.002"
-  note: "From Barrett's MSc at the CSULB Shark Lab."
+  note: "From my MSc at the CSULB Shark Lab."
 
 - year: 2015
   authors_before: "Teesdale GN, "

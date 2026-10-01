@@ -52,7 +52,7 @@ The logo follows a tagged fish across ocean layers that run from warm at the top
     <a href="images/logo/roundel.svg" download>SVG</a> · <a href="images/logo/roundel.png" download>PNG</a>
   </div>
   <div class="logo-item">
-    <div class="logo-tile harbour"><img src="images/logo/sticker.svg" alt="Sticker with a white edge"></div>
+    <div class="logo-tile harbour"><img src="images/logo/sticker.svg" alt="Sticker with the name and web address lettered in its white edge"></div>
     <span class="logo-name">Sticker</span>
     <a href="images/logo/sticker.svg" download>SVG</a> · <a href="images/logo/sticker.png" download>PNG</a>
   </div>
@@ -62,8 +62,8 @@ The logo follows a tagged fish across ocean layers that run from warm at the top
     <a href="images/logo/logo-single-ink.svg" download>SVG</a> · <a href="images/logo/logo-single-ink.png" download>PNG</a>
   </div>
   <div class="logo-item">
-    <div class="logo-tile dark"><img src="images/logo/logo-single-ink-reversed.svg" alt="Single-ink logo in cream"></div>
-    <span class="logo-name">Single ink, reversed</span>
+    <div class="logo-tile dark"><img src="images/logo/logo-single-ink-reversed.svg" alt="Reversed logo in cream on a navy disc, with lettering in its edge"></div>
+    <span class="logo-name">Reversed, navy fill</span>
     <a href="images/logo/logo-single-ink-reversed.svg" download>SVG</a> · <a href="images/logo/logo-single-ink-reversed.png" download>PNG</a>
   </div>
 </div>

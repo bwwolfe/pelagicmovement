@@ -10,7 +10,7 @@ project:
 lang: en-AU
 
 website:
-  title: "Pelagic Movement"
+  title: "Pelagic Movement Lab"
   description: "Dr Barrett Wolfe's research on fish movement, physiology and fisheries in a changing ocean, at the Institute for Marine and Antarctic Studies, University of Tasmania."
   site-url: "https://pelagicmovement.com"
   favicon: images/favicon.svg
@@ -18,8 +18,8 @@ website:
   search: false
   navbar:
     logo: images/logo.svg
-    logo-alt: "Pelagic Movement logo"
-    title: '[Pelagic Movement]{.navbar-name} [Barrett Wolfe PhD]{.navbar-subtitle} [[[movement]{.w}[, ]{.visually-hidden} [physiological]{.w}[ and ]{.visually-hidden} [fisheries]{.w}]{.stack-words} [&#125;]{.stack-brace aria-hidden="true"} [ecologist]{.stack-noun}]{.navbar-stack}'
+    logo-alt: "Pelagic Movement Lab logo"
+    title: '[Pelagic Movement Lab]{.navbar-name} [Barrett Wolfe PhD]{.navbar-subtitle} [[[movement]{.w}[, ]{.visually-hidden} [physiological]{.w}[ and ]{.visually-hidden} [fisheries]{.w}]{.stack-words} [&#125;]{.stack-brace aria-hidden="true"} [ecologist]{.stack-noun}]{.navbar-stack}'
     background: light
     right:
       - text: Research
@@ -34,7 +34,7 @@ website:
     background: "#17293A"
     foreground: "#CBD5DD"
     left: |
-      ![](images/logo-dark.svg){.footer-logo fig-alt="Pelagic Movement logo"} [[Pelagic Movement]{.footer-title} [Barrett Wolfe PhD]{.footer-subtitle}]{.footer-name}
+      ![](images/logo-dark.svg){.footer-logo fig-alt="Pelagic Movement logo"} [[Pelagic Movement Lab]{.footer-title} [Barrett Wolfe PhD]{.footer-subtitle}]{.footer-name}
 
       Institute for Marine and Antarctic Studies, University of Tasmania\
       20 Castray Esplanade, Battery Point TAS 7004

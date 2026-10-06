@@ -141,8 +141,23 @@ main.content > h2:first-child { margin-top: 0; }
   .navbar-subtitle { font-size: 0.66rem; }
   .navbar-brand-container { max-width: calc(100% - 64px); }
 }
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .navbar .nav-link { padding-left: 0.6rem !important; padding-right: 0.6rem !important; }
+  .navbar-title { font-size: 1.4rem; }
+  .navbar-stack { margin-left: 0.8rem; padding-left: 0.8rem; }
+}
 @media (max-width: 767.98px) {
   .navbar-stack { display: none; }
+}
+@media (max-width: 419.98px) {
+  .navbar-title { font-size: 1.12rem; }
+  .navbar-subtitle { font-size: 0.6rem; letter-spacing: 0.12em; }
+  .navbar-brand img { height: 32px; max-height: 32px; width: 32px; margin-right: 0.45rem; }
+  .navbar-brand-container { max-width: calc(100% - 56px); }
+}
+@media (max-width: 349.98px) {
+  .navbar-title { font-size: 0.98rem; }
+  .navbar-subtitle { font-size: 0.55rem; }
 }
 .navbar .nav-link {
   font-size: 0.875rem;

@@ -13,7 +13,7 @@ Institute for Marine and Antarctic Studies · University of Tasmania
 ::::: {.hero .column-page-right}
 :::: {.hero-text}
 ::: {.lede}
-I study how coastal and pelagic fishes move and what limits where they can live as Australia's oceans warm. Much of my work is done with recreational fishers and citizen scientists, and is aimed at questions that fishery managers need answered.
+Our lab group studies how coastal and pelagic fishes move and what limits where they can live as Australia's oceans warm. Much of our work is done with recreational fishers and citizen scientists, and is aimed at questions that fishery managers need answered.
 :::
 
 ::: {.hero-note}

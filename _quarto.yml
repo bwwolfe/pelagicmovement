@@ -3,9 +3,15 @@ project:
   output-dir: _site
   render:
     - "*.qmd"
+    - "share/*/index.qmd"
   resources:
     - CNAME
     - images/
+    - "share/*/*.dxf"
+    - "share/*/*.svg"
+    - "share/*/*.pdf"
+    - "share/*/*.zip"
+    - "share/*/*.png"
 
 lang: en-AU
 
@@ -13,6 +19,9 @@ website:
   title: "Pelagic Movement"
   description: "Dr Barrett Wolfe's research on fish movement, physiology and fisheries in a changing ocean, at the Institute for Marine and Antarctic Studies, University of Tasmania."
   site-url: "https://pelagicmovement.com"
+  # Pages marked draft: true (the unlisted files under share/) are published
+  # but left out of the navigation, search and sitemap.
+  draft-mode: unlinked
   favicon: images/favicon.svg
   open-graph: true
   search: false
@@ -34,7 +43,7 @@ website:
     background: "#17293A"
     foreground: "#CBD5DD"
     left: |
-      ![](images/logo-dark.svg){.footer-logo fig-alt="Pelagic Movement logo"} [[Pelagic Movement]{.footer-title} [Barrett Wolfe PhD]{.footer-subtitle}]{.footer-name}
+      ![](/images/logo-dark.svg){.footer-logo fig-alt="Pelagic Movement logo"} [[Pelagic Movement]{.footer-title} [Barrett Wolfe PhD]{.footer-subtitle}]{.footer-name}
 
       Institute for Marine and Antarctic Studies, University of Tasmania\
       20 Castray Esplanade, Battery Point TAS 7004

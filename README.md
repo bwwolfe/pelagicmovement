@@ -14,6 +14,7 @@ Source for [pelagicmovement.com](https://pelagicmovement.com), built with [Quart
 | `_quarto.yml` | Site settings, navigation bar and footer |
 | `styles/theme.scss` | Colours, fonts and layout |
 | `images/` | Logo, favicon and (later) your own photos |
+| `share/` | Unlisted pages for sharing files by link, one folder each. Their pages are marked `draft: true`, which keeps them out of the menus, search and sitemap; they also carry a noindex tag |
 | `CNAME` | The custom domain |
 | `.github/workflows/publish.yml` | Renders and deploys the site |
 

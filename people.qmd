@@ -1,6 +1,6 @@
 ---
 pagetitle: "About"
-description: "Barrett Wolfe and his students, with teaching, collaborators and how to join."
+description: "Barrett Wolfe's background, students, teaching and collaborators, and how to study with him."
 ---
 
 ::: {.eyebrow .muted .first .page-top}

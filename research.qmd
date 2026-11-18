@@ -181,12 +181,12 @@ Output
 :::
 
 ::: {.eyebrow}
-Principal investigator · FRDC 2022-173
+Project lead · FRDC 2022-173
 :::
 
 <h3>Recreational catch data for tropical tunas and billfishes</h3>
 
-Recreational catches of tunas and billfishes are recorded in club records, charter logbooks, tournaments, tagging programs and surveys, but rarely in a form that stock assessments can use directly. We standardised catch rates from each source, compared what each can detect, and set out a framework for monitoring from here.
+Recreational catches of tunas and billfishes are recorded in club records, charter logbooks, tournaments, tagging programs and surveys, but rarely in a form that stock assessments can use directly. The project standardised catch rates from each source, compared what each can detect, and set out a framework for monitoring from here.
 ::::
 
 :::: {.project .page-columns .page-full #swordfish}

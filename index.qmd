@@ -13,7 +13,7 @@ Institute for Marine and Antarctic Studies · University of Tasmania
 ::::: {.hero .column-page-right}
 :::: {.hero-text}
 ::: {.lede}
-Our lab group studies how coastal and pelagic fishes move and what limits where they can live as Australia's oceans warm. Much of our work is done with recreational fishers and citizen scientists, and is aimed at questions that fishery managers need answered.
+I study how coastal and pelagic fishes move and what limits where they can live as Australia's oceans warm. Much of my work is done with recreational fishers and citizen scientists, and is aimed at questions that fishery managers need answered.
 :::
 
 ::: {.hero-note}
@@ -117,7 +117,7 @@ Recreational catches of tropical tunas and billfishes, FRDC 2022-173
 Fishery data
 :::
 
-<h3>Getting more from the records we have</h3>
+<h3>Getting more from existing records</h3>
 
 Many fisheries, recreational ones especially, lack the routine data that stock assessments rely on. I work on drawing reliable indicators from the records that do exist, such as club and charter logbooks, tournaments and tagging programs, and on which new monitoring is worth its cost.
 ::::
